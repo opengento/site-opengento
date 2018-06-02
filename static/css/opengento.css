@@ -1,6 +1,15 @@
 /* ==========================================================================
 OpenGento styles
 ========================================================================== */
+.navbar-start .navbar-item { display: inline-block;}
+.navbar-start .navbar-item .brand { top: 5px;}
+.navbar-start .navbar-item.navbar-text { height: 32px; top: -3px;}
+.navbar-start #panel-trigger { float: right;}
+@media screen and (min-width: 1088px) {
+    .navbar-start .navbar-item { display: flex;}
+    .navbar-start .navbar-item .brand { top: -3px;}
+    .navbar-start .navbar-item.navbar-text { height: auto; top: auto;}
+}
 
 .hero-body #main h1 { font-size: 3rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
 .hero-body #main h2 { font-size: 2.4rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
