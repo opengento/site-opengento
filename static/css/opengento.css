@@ -25,4 +25,4 @@ OpenGento styles
 .hero-body #main sup,
 .hero-body #main sub { vertical-align: baseline; font-size: inherit;}
 
-.hero-foot img.partner-logo { max-height: 50px; height: auto;}
+.hero-foot img.partner-logo { max-height: 50px; height: auto; margin: 0 10px;}
