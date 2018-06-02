@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: https://amazing-nobel-accf36.netlify.com/
 languageCode: fr-fr
 title: OpenGento
 theme: site-opengento-theme
@@ -21,34 +21,35 @@ params:
       alt: OpenGento logo
     links:
     - text: Evenements
-      url: /
+      url: /events/
     - text: L’association OpenGento
-      url: /
+      url: /association-opengento/
     - text: Annuaire
+      url: /annuaire/
   features:
-    tagline: Prochains événements
-    subTagline: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    tagline: Evénements OpenGento
+    subTagline: Prochains événements OpenGento
     panels:
     - title: Week-end Allègre 2018
       image: illustrations/icons/mouse-globe.svg
       text: This is some explanatory text that is on two rows
       button:
         text: En savoir plus
-        url: /
+        url: /events/weekend-opengento-2018/
       delay: 1
     - title: Week-end Toulouse 2017
       image: illustrations/icons/laptop-cloud.svg
       text: This is some explanatory text that is on two rows
       button:
         text: En savoir plus
-        url: /
+        url: /events/weekend-opengento-2017/
       delay: 2
     - title: Organisez votre événement
       image: illustrations/icons/plug-cloud.svg
       text: This is some explanatory text that is on two rows
       button:
         text: En savoir plus
-        url: /
+        url: /events/organisez-votre-evenement/
       delay: 3
   contact:
     tagline: Drop us a line or two!
