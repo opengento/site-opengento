@@ -59,9 +59,7 @@ params:
     - title: OpenGento
       links:
       - name: L'association
-        url: "#"
-      - name: Annuaire
-        url: "#"
+        url: "/association-opengento/"
     - title: Evénements
       links:
       - name: 2018
