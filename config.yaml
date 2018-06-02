@@ -34,9 +34,9 @@ params:
         url: "/association-opengento/"
     - title: Evénements
       links:
-      - name: 2018
+      - name: Weekend OpenGento 2018
         url: "/events/weekend-opengento-2018/"
-      - name: 2017
+      - name: Weekend OpenGento 2017
         url: "/events/weekend-opengento-2017/"
       - name: Organisez un événement
         url: "/events/organisez-votre-evenement/"
@@ -81,9 +81,9 @@ params:
         url: "/association-opengento/"
     - title: Evénements
       links:
-      - name: 2018
+      - name: Weekend OpenGento 2018
         url: "/events/weekend-opengento-2018/"
-      - name: 2017
+      - name: Weekend OpenGento 2017
         url: "/events/weekend-opengento-2017/"
       - name: Organisez un événement
         url: "/events/organisez-votre-evenement/"
