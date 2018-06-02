@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ partial "meta.html" . }}
+    <title>{{ .Title }}</title>
+    {{ partial "css.html" . }}
+</head>
+<body>
+{{ partial "navbar.html" . }}
+
+<div class="hero-body">
+    <div class="container has-text-centered" style="padding-top:60px;">
+        <div class="columns is-vcentered">
+            <div class="column is-10 is-offset-1 has-text-left">
+                <h1 class="big-title">{{ .Title }}</h1>
+                <div id="main">{{ .Content }}</div>
+                <div class="menu">
+                    {{ .Content }}
+                    {{ range .Pages}}
+                    {{.Title}} {{.Content}}
+                    {{- end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
+{{ partial "sidebar.html" . }}
+
+<!-- Back-to-top button -->
+<div id="backtotop"><a href="#"></a></div>
+
+{{ partial "javascript.html" . }}
+</body>
+</html>
