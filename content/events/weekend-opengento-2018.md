@@ -5,8 +5,6 @@ layout: single
 draft: true
 ---
 
-# Week-end Opengento Allègre 2018
-
 **Nous y voilà enfin !**
 
 Le Week-end Opengento 2018 arrive à grand pas !

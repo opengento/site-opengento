@@ -5,8 +5,6 @@ layout: single
 draft: true
 ---
 
-#  L’association OpenGento
-
 ## Objet
 
 - l’organisation d’événements autour du logiciel open-source Magento
@@ -25,9 +23,9 @@ Le rôle du bureau n’est pas d’organiser les événements, mais de gérer le
 
 ## Bureau
 
-**Président :** Raphaël PETRINI ([@DigitalPianism](https://twitter.com/digitalpianism))
-**Secrétaire :** Frédéric MARTINEZ ([@FredMartinez](https://twitter.com/fredmartinez))
-**Trésorier :** Maxime BONGIORNO ([@Brain_Out_](https://twitter.com/brain_out_))
+- **Président :** Raphaël PETRINI ([@DigitalPianism](https://twitter.com/digitalpianism))
+- **Secrétaire :** Frédéric MARTINEZ ([@FredMartinez](https://twitter.com/fredmartinez))
+- **Trésorier :** Maxime BONGIORNO ([@Brain_Out_](https://twitter.com/brain_out_))
 
 ## Conseil d’administration
 
@@ -46,4 +44,5 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 *Accès prioritaire aux places des événements sponsorisés*
 *Offres spéciales des partenaires de l’association*
 *Réservé aux prestataires de développement Magento ou éditeurs basés sur Magento*
+
 Veuillez nous contacter si vous souhaitez adhérer en tant qu’entreprise.

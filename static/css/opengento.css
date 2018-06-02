@@ -2,6 +2,18 @@
 OpenGento styles
 ========================================================================== */
 
-.hero-foot img.partner-logo {
-    height: 50px;
-}
+.hero-body #main h1 { font-size: 3rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
+.hero-body #main h2 { font-size: 2.4rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
+.hero-body #main h3 { font-size: 2.2rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
+.hero-body #main h4 { font-size: 2rem; font-weight: 600;}
+.hero-body #main h5 { font-size: 1.8rem; font-weight: 600;}
+.hero-body #main h6 { font-size: 1.6rem; font-weight: 600;}
+
+.hero-body #main ul { padding: 0.5em 2em;}
+.hero-body #main ul li { list-style-type: circle;}
+
+/* debug */
+.hero-body #main sup,
+.hero-body #main sub { vertical-align: baseline; font-size: inherit;}
+
+.hero-foot img.partner-logo { height: 50px;}

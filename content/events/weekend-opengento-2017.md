@@ -5,8 +5,6 @@ layout: single
 draft: true
 ---
 
-# Week-end Toulouse 2017
-
 ## L’événement Magento français à ne pas rater pour les développeurs
 
 Comme chaque année maintenant, nous organisons un week-end dans une villa privatisée en proche banlieue Toulousaine.
