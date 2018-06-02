@@ -1,6 +1,6 @@
 baseURL: https://amazing-nobel-accf36.netlify.com/
 languageCode: fr-fr
-title: OpenGento
+title: OpenGento - Communauté de développeurs ecommerce
 theme: site-opengento-theme
 
 params:
@@ -16,13 +16,14 @@ params:
     - partners/logo-occitech-150x39.jpg
     - partners/ph2m-logo.png
   navbar:
+    name: OpenGento
     buttonText: Adhérez
     buttonUrl: https://secure.payplug.com/r/jw/p/T4HH
     logo:
       src: logos/opengento-150x150.png
       alt: OpenGento logo
     links:
-    - text: Evenements
+    - text: Événements
       url: /events/
     - text: L’association OpenGento
       url: /association-opengento/
@@ -48,8 +49,8 @@ params:
     - icon: twitter
       url: "https://twitter.com/opengento"
   features:
-    tagline: Evénements OpenGento
-    subTagline: Prochains événements OpenGento
+    tagline: Événements OpenGento
+    subTagline: Prochains événements organisés par OpenGento
     panels:
     - title: Week-end Allègre 2018
       image: icons/cloud.svg
