@@ -37,12 +37,16 @@ params:
         url: "/mentions-legales/"
     - title: Événements
       links:
+      - name: Organisez un événement
+        url: "/events/organisez-votre-evenement/"
       - name: Weekend OpenGento 2018
         url: "/events/weekend-opengento-2018/"
       - name: Weekend OpenGento 2017
         url: "/events/weekend-opengento-2017/"
-      - name: Organisez un événement
-        url: "/events/organisez-votre-evenement/"
+      - name: Weekend OpenGento 2016
+        url: "/events/weekend-opengento-2016/"
+      - name: Weekend OpenGento 2015
+        url: "/events/weekend-opengento-2015/"
     followUs:
     - icon: github
       url: "https://github.com/opengento"
@@ -82,6 +86,8 @@ params:
       links:
       - name: L'association
         url: "/association-opengento/"
+      - name: Organisez un événement
+        url: "/events/organisez-votre-evenement/"
       - name: Mentions légales
         url: "/mentions-legales/"
     - title: Événements
@@ -90,8 +96,10 @@ params:
         url: "/events/weekend-opengento-2018/"
       - name: Weekend OpenGento 2017
         url: "/events/weekend-opengento-2017/"
-      - name: Organisez un événement
-        url: "/events/organisez-votre-evenement/"
+      - name: Weekend OpenGento 2016
+        url: "/events/weekend-opengento-2016/"
+      - name: Weekend OpenGento 2015
+        url: "/events/weekend-opengento-2015/"
     followUs:
     - icon: github
       url: "https://github.com/opengento"
