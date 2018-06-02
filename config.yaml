@@ -35,11 +35,11 @@ params:
     - title: Evénements
       links:
       - name: 2018
-        url: "/weekend-opengento-2018/"
+        url: "/events/weekend-opengento-2018/"
       - name: 2017
-        url: "/weekend-opengento-2017/"
+        url: "/events/weekend-opengento-2017/"
       - name: Organisez un événement
-        url: "/organisez-votre-evenement/"
+        url: "/events/organisez-votre-evenement/"
     followUs:
     - icon: github
       url: "https://github.com/opengento"
@@ -82,11 +82,11 @@ params:
     - title: Evénements
       links:
       - name: 2018
-        url: "/weekend-opengento-2018/"
+        url: "/events/weekend-opengento-2018/"
       - name: 2017
-        url: "/weekend-opengento-2017/"
+        url: "/events/weekend-opengento-2017/"
       - name: Organisez un événement
-        url: "/organisez-votre-evenement/"
+        url: "/events/organisez-votre-evenement/"
     followUs:
     - icon: github
       url: "https://github.com/opengento"
