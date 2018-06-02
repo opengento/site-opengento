@@ -27,9 +27,11 @@ Le rôle du bureau n’est pas d’organiser les événements, mais de gérer le
 - **Secrétaire :** Frédéric MARTINEZ ([@FredMartinez](https://twitter.com/fredmartinez))
 - **Trésorier :** Maxime BONGIORNO ([@Brain_Out_](https://twitter.com/brain_out_))
 
-## Conseil d’administration
+#### Conseil d’administration
 
 Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hullin – Christophe le Bot – Frédéric Martinez – Sylvain Rayé
+
+------
 
 ## Adhésion
 
@@ -45,4 +47,26 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 *Offres spéciales des partenaires de l’association*
 *Réservé aux prestataires de développement Magento ou éditeurs basés sur Magento*
 
-Veuillez nous contacter si vous souhaitez adhérer en tant qu’entreprise.
+#### Membres donateurs
+
+Ils nous aident à faire vivre l'association, nous les remercions chaleureusement !
+
+Prenez le temps de découvrir leur site :
+
+![Blackbird](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/Blackbird-150x45.jpg "Blackbird")
+https://black.bird.eu/
+
+![Monsieur Biz] (https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz-150x75.jpg "Monsieur Biz")
+https://monsieurbiz.com/
+
+![PH2M](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/PH2M-150x44.jpg "PH2M")
+https://www.ph2m.com/
+
+![Occitech](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/logo-occitech-150x39.jpg "Occitech")
+https://www.occitech.fr/
+
+------
+
+**Comment devenir un membre donateur OpenGento ?**
+
+Veuillez nous contacter à l'adresse <opengento@gmail.com> si vous souhaitez adhérer en tant qu’entreprise.

@@ -50,21 +50,21 @@ params:
     subTagline: Prochains événements OpenGento
     panels:
     - title: Week-end Allègre 2018
-      image: illustrations/faces/1.png
+      image: icons/cloud.svg
       text: Vendredi 1er juin 2018 au Dimanche 3 juin 2018
       button:
         text: En savoir plus
         url: /events/weekend-opengento-2018/
       delay: 1
     - title: Week-end Toulouse 2017
-      image: illustrations/faces/2.png
+      image: icons/sun.svg
       text: Vendredi 23 juin 2017 au dimanche 25 juin 2017
       button:
         text: En savoir plus
         url: /events/weekend-opengento-2017/
       delay: 2
     - title: Organisez votre événement
-      image: illustrations/faces/3.png
+      image: icons/add.svg
       text: Vous souhaitez organiser un événement ?
       button:
         text: En savoir plus
@@ -73,13 +73,15 @@ params:
   contact:
     tagline: Drop us a line or two!
   footer:
-    image: opengento-150x150.png
+    image: opengento-300x300.png
     columns:
     - title: OpenGento
       links:
       - name: L'association
         url: "/association-opengento/"
-    - title: Evénements
+      - name: Mentions légales
+        url: "/mentions-legales/"
+    - title: Événements
       links:
       - name: Weekend OpenGento 2018
         url: "/events/weekend-opengento-2018/"
