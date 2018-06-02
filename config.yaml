@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: https://amazing-nobel-accf36.netlify.com/
 languageCode: fr-fr
 title: OpenGento
 theme: site-opengento-theme
