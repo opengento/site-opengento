@@ -3,7 +3,7 @@ title: "Weekend Opengento 2017"
 date: 2018-06-02T17:34:31+02:00
 layout: single
 draft: true
-weight: 100
+weight: 600
 ---
 
 ## L’événement Magento français à ne pas rater pour les développeurs

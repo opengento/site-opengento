@@ -1,6 +1,8 @@
 /* ==========================================================================
 OpenGento styles
 ========================================================================== */
+
+/* navbar */
 .navbar-start .navbar-item { display: inline-block;}
 .navbar-start .navbar-item .brand { top: 5px;}
 .navbar-start .navbar-item.navbar-text { height: 32px; top: -3px;}
@@ -11,6 +13,7 @@ OpenGento styles
     .navbar-start .navbar-item.navbar-text { height: auto; top: auto;}
 }
 
+/* content .md */
 .hero-body #main h1 { font-size: 3rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
 .hero-body #main h2 { font-size: 2.4rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
 .hero-body #main h3 { font-size: 2.2rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
@@ -20,6 +23,8 @@ OpenGento styles
 
 .hero-body #main ul { padding: 0.5em 2em;}
 .hero-body #main ul li { list-style-type: circle;}
+
+.events-list .event-content { margin-bottom: 10px;}
 
 /* debug */
 .hero-body #main sup,

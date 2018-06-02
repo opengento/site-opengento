@@ -11,13 +11,16 @@
 <div class="hero-body">
     <div class="container has-text-centered" style="padding-top:60px;">
         <div class="columns is-vcentered">
-            <div class="column is-10 is-offset-1 has-text-left">
+            <div class="column is-8 is-offset-2 has-text-left">
                 <h1 class="big-title">{{ .Title }}</h1>
-                <div id="main">{{ .Content }}</div>
-                <div class="menu">
+                <div id="main" class="events-list">
                     {{ .Content }}
+
                     {{ range .Pages}}
-                    {{.Title}} {{.Content}}
+                    <h4>{{.Title}}</h4>
+                    <div class="event-content">{{.Content | plainify | htmlEscape | safeHTML | truncate 180}}</div>
+                    <a href="{{ .URL }}" class="button cta is-large rounded secondary-btn raised">Découvrir</a>
+                    <hr />
                     {{- end }}
                 </div>
             </div>
