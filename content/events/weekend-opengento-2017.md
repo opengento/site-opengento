@@ -8,7 +8,8 @@ draft: true
 ## L’événement Magento français à ne pas rater pour les développeurs
 
 Comme chaque année maintenant, nous organisons un week-end dans une villa privatisée en proche banlieue Toulousaine.
-**Les dates sont : Du vendredi 23/06 midi au dimanche 25/06 soir.**
+
+**Les dates sont : Du vendredi 23 juin midi au dimanche 25 juin soir.**
 
 Les places coûtent 135 € par personne et prennent en charge l’intégralité du week-end (logement, nourriture, boissons, ménage). Il ne vous reste qu’à venir à Toulouse.
 
