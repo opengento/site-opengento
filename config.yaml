@@ -11,10 +11,10 @@ params:
     buttonUrl: /association-opengento/
     image: illustrations/worker.svg
     bottomIcons:
-    - partners/Blackbird-150x45.jpg
+    - partners/blackbird-logo.png
     - partners/MonsieurBiz-150x75.jpg
     - partners/logo-occitech-150x39.jpg
-    - partners/PH2M-150x44.jpg
+    - partners/ph2m-logo.png
   navbar:
     buttonText: Adhérez
     buttonUrl: https://secure.payplug.com/r/jw/p/T4HH
