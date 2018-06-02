@@ -1,0 +1,24 @@
+{{- $sidebar := .Site.Params.sidebar -}}
+{{- $columns := $sidebar.columns -}}
+<div id="left-panel">
+  <div class="left-menu-wrapper">
+      <div class="panel-header">
+          <img class="panel-logo" src="{{ "img/logos/opengento-150x150.png" | absURL }}">
+          <div id="panel-close" class="delete is-medium" style="float:right"></div>
+      </div>
+      <div class="menu">
+          {{- range $columns }}
+          <ul class="menu-list">
+              <li>
+                  <a class="side-menu-item is-expandable">{{ .title }} <i class="sl sl-icon-arrow-down end-icon"></i></a>
+                  <ul class="sidebar-submenu" style="display:none;">
+                      {{- range .links -}}
+                      <li><a href="{{ .url }}" class="side-menu-subitem">{{ .name }}</a></li>
+                      {{- end -}}
+                  </ul>
+              </li>
+          </ul>
+          {{- end }}
+      </div>
+  </div>
+</div>

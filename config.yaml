@@ -26,6 +26,25 @@ params:
       url: /events/
     - text: L’association OpenGento
       url: /association-opengento/
+  sidebar:
+    columns:
+    - title: OpenGento
+      links:
+      - name: L'association
+        url: "/association-opengento/"
+    - title: Evénements
+      links:
+      - name: 2018
+        url: "/weekend-opengento-2018/"
+      - name: 2017
+        url: "/weekend-opengento-2017/"
+      - name: Organisez un événement
+        url: "/organisez-votre-evenement/"
+    followUs:
+    - icon: github
+      url: "https://github.com/opengento"
+    - icon: twitter
+      url: "https://twitter.com/opengento"
   features:
     tagline: Evénements OpenGento
     subTagline: Prochains événements OpenGento
