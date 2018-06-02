@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "meta.html" . }}
+    <title>{{ .Title }}</title>
+    {{ partial "css.html" . }}
+  </head>
+  <body>
+    {{ block "main" . }}
+    {{ partial "footer.html" . }}
+    {{ partial "sidebar.html" . }}
+
+    <!-- Back-to-top button -->
+    <div id="backtotop"><a href="#"></a></div>
+
+    {{ end }}
+
+    {{ partial "javascript.html" . }}
+  </body>
+</html>
