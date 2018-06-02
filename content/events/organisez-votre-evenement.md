@@ -4,7 +4,6 @@ date: 2018-06-02T17:34:31+02:00
 layout: single
 draft: true
 ---
-# Organisez votre événement Magento
 
 L’objet de l’association est essentiellement l’organisation d’événements Magento. Si vous souhaitez créer votre propre événement, nous serons ravis de pouvoir vous aider.
 
