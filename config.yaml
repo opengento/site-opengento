@@ -8,6 +8,7 @@ params:
     tagline: OpenGento
     subTagline: OpenGento est une association Française loi 1901 dont l'objet est l'organisation d'événements Magento pour la communauté de développeurs.
     buttonText: En savoir plus
+    buttonUrl: /association-opengento/
     image: illustrations/worker.svg
     bottomIcons:
     - partners/Blackbird-150x45.jpg
@@ -16,6 +17,7 @@ params:
     - partners/PH2M-150x44.jpg
   navbar:
     buttonText: Adhérez
+    buttonUrl: https://secure.payplug.com/r/jw/p/T4HH
     logo:
       src: logos/opengento-150x150.png
       alt: OpenGento logo
@@ -24,28 +26,26 @@ params:
       url: /events/
     - text: L’association OpenGento
       url: /association-opengento/
-    - text: Annuaire
-      url: /annuaire/
   features:
     tagline: Evénements OpenGento
     subTagline: Prochains événements OpenGento
     panels:
     - title: Week-end Allègre 2018
-      image: illustrations/icons/mouse-globe.svg
+      image: illustrations/faces/1.png
       text: Vendredi 1er juin 2018 au Dimanche 3 juin 2018
       button:
         text: En savoir plus
         url: /events/weekend-opengento-2018/
       delay: 1
     - title: Week-end Toulouse 2017
-      image: illustrations/icons/laptop-cloud.svg
+      image: illustrations/faces/2.png
       text: Vendredi 23 juin 2017 au dimanche 25 juin 2017
       button:
         text: En savoir plus
         url: /events/weekend-opengento-2017/
       delay: 2
     - title: Organisez votre événement
-      image: illustrations/icons/plug-cloud.svg
+      image: illustrations/faces/3.png
       text: Vous souhaitez organiser un événement ?
       button:
         text: En savoir plus
