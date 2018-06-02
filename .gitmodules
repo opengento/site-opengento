@@ -1,0 +1,3 @@
+[submodule "themes/site-opengento-theme"]
+	path = themes/site-opengento-theme
+	url = git@github.com:opengento/site-opengento-theme.git
