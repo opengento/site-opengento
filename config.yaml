@@ -1,7 +1,7 @@
 baseURL: http://localhost:1313/
 languageCode: fr-fr
 title: OpenGento
-theme: opengento-fresh
+theme: site-opengento-theme
 
 params:
   hero:
