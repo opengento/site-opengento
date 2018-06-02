@@ -56,22 +56,20 @@ params:
   footer:
     image: opengento-150x150.png
     columns:
-    - title: Product
+    - title: OpenGento
       links:
-      - name: Discover features
+      - name: L'association
         url: "#"
-      - name: Why choose our Product?
+      - name: Annuaire
         url: "#"
-      - name: Compare features
-        url: "#"
-    - title: Docs
+    - title: Evénements
       links:
-      - name: Get Started
-        url: "#"
-      - name: User guides
-        url: "#"
-      - name: Admin guide
-        url: "#"
+      - name: 2018
+        url: "/weekend-opengento-2018/"
+      - name: 2017
+        url: "/weekend-opengento-2017/"
+      - name: Organisez un événement
+        url: "/organisez-votre-evenement/"
     followUs:
     - icon: github
       url: "https://github.com/opengento"
