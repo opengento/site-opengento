@@ -33,25 +33,33 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 
 ------
 
-## Adhésion
+## Adhésion 2018
 
-**Personne physique (développeur) pour 2017 :** 5 € / an
-*Accès au compte Slack de l’association pour échanger*
-*Adhésion requise pour participer à un événement*
-[Adhérer (paiement)](https://secure.payplug.com/r/jw/p/T4HH)
+###### Personne physique (développeur)
 
-**Personne morale (entreprise) pour 2017 :** 100 € / an (pas de TVA)
-*Présentation dans l’annuaire avec fiche individuelle*
-*Accès prioritaire aux sponsorings d’événements*
-*Accès prioritaire aux places des événements sponsorisés*
-*Offres spéciales des partenaires de l’association*
-*Réservé aux prestataires de développement Magento ou éditeurs basés sur Magento*
+**5€/an**
+
+- Accès au compte Slack de l’association pour échanger
+- Adhésion requise pour participer à un événement
+
+[Adhésion 2018 (paiement)](https://secure.payplug.com/p/XRxoT)
+
+###### Personne morale (entreprise)
+
+**100 € / an (pas de TVA)**
+
+- Présentation dans l’annuaire avec fiche individuelle
+- Accès prioritaire aux sponsorings d’événements
+- Accès prioritaire aux places des événements sponsorisés
+- Offres spéciales des partenaires de l’association
+- Réservé aux prestataires de développement Magento ou éditeurs basés sur Magento
 
 #### Membres donateurs
 
 Ils nous aident à faire vivre l'association, nous les remercions chaleureusement !
 
 Prenez le temps de découvrir leur site :
+
 
 ![Blackbird](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo.png "Blackbird")
 https://black.bird.eu/

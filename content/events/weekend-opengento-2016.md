@@ -7,9 +7,11 @@ weight: 800
 ---
 # Week-end Toulouse 2016
 
-![photo we 2015](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2016.jpg)L’événement soleil de l’année !
+![photo we 2015](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2016.jpg)
 
-Du 1 au 5 juin 2016.
+L’événement soleil de l’année !
+
+**Du 1 au 5 juin 2016.**
 
 Dans une belle villa avec piscine et boulodrome, 20 développeurs Magento se retrouvent le temps d’un week-end pour échanger et co-construire des outils et extensions.
 Cette année, il est possible de venir à partir du mercredi pour du coworking jusqu’au vendredi, démarrage officiel de l’événement.
@@ -26,7 +28,9 @@ Week-end vendredi 3 au dimanche 5 juin : 100 € en pension complète
 
 ## Sponsor Gold
 
-**Place à pourvoir !** Pour 600 €, présentez votre produit le samedi soir devant notre assemblée. Pour 800 €, une personne de votre équipe participe à tout le week-end en pension complète en plus de la présentation.
+**Place à pourvoir !**
+Pour 600 €, présentez votre produit le samedi soir devant notre assemblée.
+Pour 800 €, une personne de votre équipe participe à tout le week-end en pension complète en plus de la présentation.
 
 ## Sponsors
 

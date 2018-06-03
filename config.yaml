@@ -17,8 +17,8 @@ params:
     - partners/ph2m-logo.png
   navbar:
     name: OpenGento
-    buttonText: Adhérez
-    buttonUrl: https://secure.payplug.com/r/jw/p/T4HH
+    buttonText: Adhésion 2018
+    buttonUrl: https://secure.payplug.com/p/XRxoT
     logo:
       src: logos/opengento-150x150.png
       alt: OpenGento logo
