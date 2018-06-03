@@ -60,15 +60,22 @@ Ils nous aident à faire vivre l'association, nous les remercions chaleureusemen
 
 Prenez le temps de découvrir leur site :
 
+------
 
 ![Blackbird](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo.png "Blackbird")
 https://black.bird.eu/
 
+------
+
 ![Monsieur Biz] (https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz-150x75.jpg "Monsieur Biz")
 https://monsieurbiz.com/
 
+------
+
 ![PH2M](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ph2m-logo.png "PH2M")
 https://www.ph2m.com/
+
+------
 
 ![Occitech](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/logo-occitech-150x39.jpg "Occitech")
 https://www.occitech.fr/
