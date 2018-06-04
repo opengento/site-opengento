@@ -2,7 +2,7 @@
 
 _by Opengento_
 
-## Technlogies
+## Technologies
 - Hugo framework [docs](https://gohugo.io/documentation/)
 - Netlify hosting []()
 
