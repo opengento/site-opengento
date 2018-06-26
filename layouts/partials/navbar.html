@@ -9,12 +9,6 @@
     <div class="container">
       <nav class="navbar">
         <div class="navbar-start">
-          <a class="navbar-item" href="{{ .Site.BaseURL }}">
-            <img class="brand" src="{{ $logoSrc }}" alt="{{ $logoAlt }}">
-          </a>
-          <a class="navbar-item navbar-text" href="{{ .Site.BaseURL }}">
-              <b>{{ $navbar.Name }}</b>
-          </a>
           <a id="panel-trigger" href="#left-panel" class="navbar-item navbar-inner hamburger-btn" href="javascript:void(0);">
             <span class="menu-toggle">
               <span class="icon-box-toggle">
@@ -25,6 +19,12 @@
                 </span>
               </span>
             </span>
+          </a>
+          <a class="navbar-item" href="{{ .Site.BaseURL }}">
+            <img class="brand" src="{{ $logoSrc }}" alt="{{ $logoAlt }}">
+          </a>
+          <a class="navbar-item navbar-text" href="{{ .Site.BaseURL }}">
+              <b>{{ $navbar.Name }}</b>
           </a>
         </div>
         <span class="navbar-toggle">
