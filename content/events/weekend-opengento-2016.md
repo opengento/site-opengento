@@ -2,7 +2,7 @@
 title: "Weekend Opengento 2016"
 date: 2018-06-02T17:34:31+02:00
 layout: single
-draft: true
+draft: false
 weight: 800
 ---
 # Week-end Toulouse 2016
