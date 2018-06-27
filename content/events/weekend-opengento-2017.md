@@ -14,7 +14,7 @@ Comme chaque année maintenant, nous organisons un week-end dans une villa priva
 
 Les places coûtent 135 € par personne et prennent en charge l’intégralité du week-end (logement, nourriture, boissons, ménage). Il ne vous reste qu’à venir à Toulouse.
 
-Rappel : pour participer, il faut être [adhérent](https://www.opengento.fr/association/) de l’association (5€) ce qui vous donnera accès à notre Slack ! 30 places sont en vente… à vos CB !
+Rappel : pour participer, il faut être [adhérent](https://www.opengento.fr/association-opengento/) de l’association (5€) ce qui vous donnera accès à notre Slack ! 30 places sont en vente… à vos CB !
 
 **Trop tard, les places ne sont plus en vente.**
 

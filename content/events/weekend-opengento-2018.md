@@ -84,7 +84,7 @@ Le Week-end n’est ouvert qu’aux adhérents Opengento, l’adhésion coûte 5
 
 ## **Comment participer ?**
 
-Il faut être[ adhérent](https://www.opengento.fr/association/) de l’association (5 €) pour pouvoir participer à l’événement.
+Il faut être[ adhérent](https://www.opengento.fr/association-opengento/) de l’association (5 €) pour pouvoir participer à l’événement.
 
 
 

@@ -18,7 +18,7 @@ Cette année, il est possible de venir à partir du mercredi pour du coworking j
 
 ## Participer
 
-Il faut être [adhérent](https://www.opengento.fr/association/) de l’association (5 €) pour pouvoir participer à l’événement. Le lien de la billetterie est transmis dans le Slack de l’association.
+Il faut être [adhérent](https://www.opengento.fr/association-opengento/) de l’association (5 €) pour pouvoir participer à l’événement. Le lien de la billetterie est transmis dans le Slack de l’association.
 
 Coworking mercredi 1 au vendredi 3 juin : 60 € en pension complète
 
