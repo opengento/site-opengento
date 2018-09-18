@@ -15,6 +15,8 @@ params:
     - partners/MonsieurBiz-150x75.jpg
     - partners/logo-occitech-150x39.jpg
     - partners/ph2m-logo.png
+    - partners/commit42-logo-small.png
+    - partners/lumao-small.png
   navbar:
     name: OpenGento
     buttonText: Adhésion 2018
