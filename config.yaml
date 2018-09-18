@@ -47,6 +47,10 @@ params:
         url: "/events/weekend-opengento-2016/"
       - name: Weekend OpenGento 2015
         url: "/events/weekend-opengento-2015/"
+    - title: Adhérents
+      links:
+      - name: Présentation
+        url: "/adherents"
     followUs:
     - icon: github
       url: "https://github.com/opengento"

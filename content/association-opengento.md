@@ -67,7 +67,7 @@ https://black.bird.eu/
 
 ------
 
-![Monsieur Biz] (https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz-150x75.jpg "Monsieur Biz")
+![Monsieur Biz](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz-150x75.jpg "Monsieur Biz")
 https://monsieurbiz.com/
 
 ------
@@ -81,6 +81,9 @@ https://www.ph2m.com/
 https://www.occitech.fr/
 
 ------
+![LUMAO](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/LUMAO.jpg "Occitech")
+https://www.occitech.fr/
+
 
 **Comment devenir un membre donateur OpenGento ?**
 
