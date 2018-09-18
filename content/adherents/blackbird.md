@@ -5,7 +5,7 @@ layout: adherent
 draft: false
 weight: 300
 ---
-![Blackbird Agency](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo-small.png.jpg "Blackbird Agency")
+![Blackbird Agency](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo-small.png "Blackbird Agency")
 
 Chez **Blackbird agency** nous concevons et développons des sites e-commerce exclusivement sur Magento depuis 2015. 
 
