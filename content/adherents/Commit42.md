@@ -6,7 +6,7 @@ draft: false
 weight: 300
 ---
 
-![commit42](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/commit42-logo-small.jpg "commit42")
+![commit42](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/commit42-logo-small.png "commit42")
 
 
 **commit42** est un studio de d’innovation Web spécialisé dans les technologies React, CakePHP, NodeJS, Vuejs Magento et PWA.
