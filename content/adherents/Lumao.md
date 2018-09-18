@@ -9,7 +9,7 @@ weight: 300
 ![LUMAO](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/LUMAO.jpg "LUMAO")
 
 
-Lumao propose à ses clients de l'expertise e-commerce sur le CMS Magento dans une équipe à taille humaine.
+Lumao propose à ses clients de l’expertise e-commerce sur le CMS Magento dans une équipe à taille humaine.
  
 Nous travaillons pour tout type de clientèle. 
 

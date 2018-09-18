@@ -11,4 +11,4 @@ weight: 300
 
 [Monsieur Biz](https://monsieurbiz.com/) est une agence web experte dans la réalisation de projets e-commerces de qualité. 
 
-Spécialisée sur Magento et Sylius, l'agence avance dans son expertise avec des clients de toute taille.
+Spécialisée sur Magento et Sylius, l’agence avance dans son expertise avec des clients de toute taille.
