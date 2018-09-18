@@ -81,8 +81,10 @@ https://www.ph2m.com/
 https://www.occitech.fr/
 
 ------
-![LUMAO](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/LUMAO-small.jpg "Occitech")
+![LUMAO](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/lumao-small.png "LUMAO")
 https://lumao.eu
+
+-------
 
 
 **Comment devenir un membre donateur OpenGento ?**
