@@ -4,7 +4,7 @@ _by Opengento_
 
 ## Technologies
 - Hugo framework [docs](https://gohugo.io/documentation/)
-- Netlify hosting []()
+- GitHub hosting
 
 ## How to use ?
 - Edit Markdown files in `/content/` folder
