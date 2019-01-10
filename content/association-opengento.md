@@ -33,7 +33,7 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 
 ------
 
-## Adhésion 2018
+## Adhésion 2019
 
 ###### Personne physique (développeur)
 
@@ -42,7 +42,7 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 - Accès au compte Slack de l’association pour échanger
 - Adhésion requise pour participer à un événement
 
-[Adhésion 2018 (paiement)](https://secure.payplug.com/p/XRxoT)
+[Adhésion 2019 (paiement)](https://secure.payplug.com/p/jlnSz)
 
 ###### Personne morale (entreprise)
 
