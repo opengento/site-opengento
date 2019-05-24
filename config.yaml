@@ -56,7 +56,7 @@ params:
     - title: Open Source
       links:
       - name: RGPD pour Magento 2
-        url: "https://github.com/opengento/magento2-gdpr"
+        url: "/magento2-gdpr"
     followUs:
     - icon: github
       url: "https://github.com/opengento"
