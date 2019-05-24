@@ -53,6 +53,10 @@ params:
       links:
       - name: Présentation
         url: "/adherents"
+    - title: Open Source
+      links:
+      - name: RGPD pour Magento 2
+        url: "/magento2-gdpr"
     followUs:
     - icon: github
       url: "https://github.com/opengento"
