@@ -4,12 +4,13 @@ _by Opengento_
 
 ## Technologies
 - Hugo framework [docs](https://gohugo.io/documentation/)
-- GitHub hosting
+- Netlify hosting []()
 
 ## How to use ?
 - Edit Markdown files in `/content/` folder
 - Edit theme configuration in `config.yaml` (header/navbar/sidebar/home/footer)
 
+Local : `hugo server -D`
 
 ## Maintainers
 
