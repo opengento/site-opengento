@@ -59,6 +59,10 @@ params:
       links:
       - name: RGPD pour Magento 2
         url: "/magento2-gdpr"
+      - name: Gelf Logger pour Magento 2
+        url: "https://github.com/opengento/logger"
+      - name: Gatsbylius
+        url: "https://github.com/opengento/gatsbylius"
     followUs:
     - icon: github
       url: "https://github.com/opengento"
