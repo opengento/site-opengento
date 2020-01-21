@@ -19,8 +19,8 @@ params:
     - partners/lumao-small.png
   navbar:
     name: OpenGento
-    buttonText: Adhésion 2019
-    buttonUrl: https://secure.payplug.com/p/jlnSz
+    buttonText: Adhésion 2020
+    buttonUrl: https://secure.payplug.com/p/jtN33xM
     logo:
       src: logos/opengento-150x150.png
       alt: OpenGento logo
