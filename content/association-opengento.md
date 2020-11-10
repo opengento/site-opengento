@@ -23,9 +23,9 @@ Le rôle du bureau n’est pas d’organiser les événements, mais de gérer le
 
 ## Bureau
 
-- **Président :** Raphaël PETRINI ([@DigitalPianism](https://twitter.com/digitalpianism))
-- **Secrétaire :** Frédéric MARTINEZ ([@FredMartinez](https://twitter.com/fredmartinez))
-- **Trésorier :** Maxime BONGIORNO ([@Brain\_Out\_](https://twitter.com/brain_out_))
+- **Président :** Frédéric MARTINEZ ([@FredMartinez](https://twitter.com/FredMartinez))
+- **Secrétaire :** Mehdi CHAOUCH ([@MehdiChch](https://twitter.com/MehdiChch))
+- **Trésorier :** Tony SMAGGHE ([TonySmag](https://twitter.com/TonySmag))
 
 #### Conseil d’administration
 
