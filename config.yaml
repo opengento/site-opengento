@@ -59,6 +59,10 @@ params:
       links:
       - name: RGPD pour Magento 2
         url: "/magento2-gdpr"
+      - name: Gestion de documents pour Magento 2
+        url: "https://github.com/opengento?q=magento2-document#org-repositories"
+      - name: Boutiques par pays pour Magento 2
+        url: "https://github.com/opengento?q=magento2-country-store#org-repositories"
       - name: Migration EE vers CE pour Magento 2
         url: "https://github.com/opengento/magento2-downgrade-ee-ce"
       - name: Gelf Logger pour Magento 2
