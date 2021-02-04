@@ -59,6 +59,8 @@ params:
       links:
       - name: RGPD pour Magento 2
         url: "/magento2-gdpr"
+      - name: Activer/Désactiver le prix ou la vente pour des groupes clients
+        url: "https://github.com/opengento/magento2-saleable"
       - name: Gestion de documents pour Magento 2
         url: "https://github.com/opengento?q=magento2-document#org-repositories"
       - name: Boutiques par pays pour Magento 2
