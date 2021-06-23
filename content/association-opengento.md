@@ -33,9 +33,9 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 
 ------
 
-## Adhésion 2019
+## Adhésion 2021
 
-###### Personne physique (développeur)
+###### Personne physique (développeuse / développeur)
 
 **5€/an**
 
