@@ -25,7 +25,7 @@ Le rôle du bureau n’est pas d’organiser les événements, mais de gérer le
 
 - **Président :** Frédéric MARTINEZ ([@FredMartinez](https://twitter.com/FredMartinez))
 - **Secrétaire :** Mehdi CHAOUCH ([@MehdiChch](https://twitter.com/MehdiChch))
-- **Trésorier :** Tony SMAGGHE ([TonySmag](https://twitter.com/TonySmag))
+- **Trésorier :** Tony SMAGGHE ([@TonySmag](https://twitter.com/TonySmag))
 
 #### Conseil d’administration
 
@@ -64,6 +64,16 @@ Prenez le temps de découvrir leur site :
 
 ![Blackbird](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo.png "Blackbird")
 https://black.bird.eu/
+
+------
+
+![ati4group](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ATI4-150.png "Ati4Group")
+https://ati4group.com/
+
+------
+
+![Adexos](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/adexos-150x65.png "Adexos")
+https://www.adexos.fr
 
 ------
 

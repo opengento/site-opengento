@@ -12,10 +12,11 @@ params:
     image: illustrations/worker.svg
     bottomIcons:
     - partners/blackbird-logo.png
+    - partners/ATI4-150.png
+    - partners/adexos-150x65.png
     - partners/MonsieurBiz-150x75.jpg
     - partners/logo-occitech-150x39.jpg
     - partners/ph2m-logo.png
-    - partners/commit42-logo-small.png
     - partners/lumao-small.png
   navbar:
     name: OpenGento
