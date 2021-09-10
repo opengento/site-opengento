@@ -6,9 +6,7 @@ draft: false
 weight: 300
 ---
 
-[Adexos](https://www.adexos.fr/)
-
-Adexos est une agence web experte de la solution Magento.  
+[Adexos](https://www.adexos.fr/) est une agence web experte de la solution Magento.  
 Basés à Béthune et Paris, nous sommes spécialisés dans la création numérique et le commerce digital.  
 Notre terrain de jeu : le CMS open-source Magento.  
 Utilisé au sein de l'agence depuis plus de 10 ans, nous maîtrisons la solution, avec une équipe expérimentée de 25 développeurs dont nos mentors sont certifiés. à cela s’ajoute la maîtrise de la programmation PHP, les environnements Git et du déploiement continu, la connaissance des contraintes SEO et l'expertise en développement de connecteurs ERP, afin de développer un projet dans les règles de l'art.  
