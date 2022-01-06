@@ -42,7 +42,7 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 - Accès au compte Slack de l’association pour échanger
 - Adhésion requise pour participer à un événement
 
-[Adhésion 2021 (paiement)](https://secure.payplug.com/p/jeMT8BT)
+[Adhésion 2022 (paiement)](https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-2016)
 
 ###### Personne morale (entreprise)
 
