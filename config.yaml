@@ -20,7 +20,7 @@ params:
     - partners/lumao-small.png
   navbar:
     name: OpenGento
-    buttonText: Adhésion 2021
+    buttonText: Adhésion 2022
     buttonUrl: https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-2016
     logo:
       src: logos/opengento-150x150.png

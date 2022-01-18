@@ -33,7 +33,7 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 
 ------
 
-## Adhésion 2021
+## Adhésion 2022
 
 ###### Personne physique (développeuse / développeur)
 

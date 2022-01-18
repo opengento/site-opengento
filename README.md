@@ -13,6 +13,17 @@ _by Opengento_
 Local : `hugo server -D`
 Docker build : `docker run --rm -it -v $(pwd):/src klakegg/hugo`
 
+## How to deploy?
+
+1. Commit files from this repository
+2. Run
+
+```
+./deploy.sh
+```
+
+Requirement: Docker
+
 ## Maintainers
 
 See [Contributors list](https://github.com/opengento/site-opengento/graphs/contributors).
