@@ -11,6 +11,7 @@ _by Opengento_
 - Edit theme configuration in `config.yaml` (header/navbar/sidebar/home/footer)
 
 Local : `hugo server -D`
+Docker build : `docker run --rm -it -v $(pwd):/src klakegg/hugo`
 
 ## Maintainers
 

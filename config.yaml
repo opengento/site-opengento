@@ -42,6 +42,8 @@ params:
       links:
       - name: Organisez un événement
         url: "/events/organisez-votre-evenement/"
+      - name: Weekend OpenGento 2022
+        url: "/events/weekend-opengento-2022/"
       - name: Weekend OpenGento 2019
         url: "/events/weekend-opengento-2019/"
       - name: Weekend OpenGento 2018
@@ -81,27 +83,34 @@ params:
     tagline: Événements OpenGento
     subTagline: Prochains événements organisés par OpenGento
     panels:
+    - title: Week-end Toulouse 2022
+      image: icons/sun.svg
+      text: Vendredi 18 ou 25 mars 2022 au dimanche 20 ou 27 mars 2022
+      button:
+        text: En savoir plus
+        url: /events/weekend-opengento-2022/
+      delay: 1
     - title: Week-end Béthune 2019
       image: icons/event.svg
       text: Vendredi 15 novembre au Dimanche 16 novembre 2019
       button:
         text: En savoir plus
         url: /events/weekend-opengento-2019/
-      delay: 1
+      delay: 2
     - title: Week-end Allègre 2018
       image: icons/cloud.svg
       text: Vendredi 1er juin 2018 au Dimanche 3 juin 2018
       button:
         text: En savoir plus
         url: /events/weekend-opengento-2018/
-      delay: 2
+      delay: 3
     - title: Week-end Toulouse 2017
       image: icons/sun.svg
       text: Vendredi 23 juin 2017 au dimanche 25 juin 2017
       button:
         text: En savoir plus
         url: /events/weekend-opengento-2017/
-      delay: 3
+      delay: 4
   contact:
     tagline: Drop us a line or two!
   footer:
@@ -117,6 +126,8 @@ params:
         url: "/mentions-legales/"
     - title: Événements
       links:
+      - name: Weekend OpenGento 2022
+        url: "/events/weekend-opengento-2022/"
       - name: Weekend OpenGento 2019
         url: "/events/weekend-opengento-2019/"
       - name: Weekend OpenGento 2018
