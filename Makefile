@@ -10,4 +10,4 @@ help: ## Dislay this help
 commit_and_push: ## Commit all files (placeholder commit message), push, build public HTMl and push to deploy
 	git add .
 	git commit -am 'Commit auto'
-	./deploy
+	./deploy.sh
