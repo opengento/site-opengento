@@ -85,7 +85,7 @@ params:
     panels:
     - title: Week-end Toulouse 2022
       image: icons/sun.svg
-      text: Vendredi 18 ou 25 mars 2022 au dimanche 20 ou 27 mars 2022
+      text: Vendredi 18 mars 2022 au dimanche 20 mars 2022
       button:
         text: En savoir plus
         url: /events/weekend-opengento-2022/
