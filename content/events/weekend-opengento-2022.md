@@ -15,9 +15,7 @@ Après 2 ans de pause à cause du Covid, nous serons cette année à Croix de Pa
 
 #### Infos sanitaires :
 
-Nous n’allons pas les vérifier mais nous comptons sur chacun pour avoir fait un test négatif ou avoir un pass vaccinal à jour.
-
-
+Un pass vaccinal à jour ou un test négatif récent est nécessaire.
 
 ------
 
