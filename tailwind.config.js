@@ -9,7 +9,15 @@ module.exports = {
   ],
   darkMode: 'class',
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'dark-gray': '#111111'
+      }
+    },
+    fontFamily: {
+      'caudex': ['Caudex', 'serif'],
+      'dm': ['DM Sans', 'sans-serif']
+    },
   },
   plugins: [],
 }

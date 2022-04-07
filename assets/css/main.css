@@ -1,3 +1,63 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Caudex';
+  font-weight: 400;
+  src: url('~/assets/fonts/caudex/Caudex.woff2') format('woff2'),
+  url('~/assets/fonts/caudex/Caudex.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Caudex';
+  font-weight: 400;
+  font-style: italic;
+  src: url('~/assets/fonts/caudex/Caudex-Italic.woff2') format('woff2'),
+  url('~/assets/fonts/caudex/Caudex-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Caudex';
+  font-weight: 700;
+  src: url('~/assets/fonts/caudex/Caudex-Bold.woff2') format('woff2'),
+  url('~/assets/fonts/caudex/Caudex-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Caudex';
+  font-weight: 700;
+  font-style: italic;
+  src: url('~/assets/fonts/caudex/Caudex-BoldItalic.woff2') format('woff2'),
+  url('~/assets/fonts/caudex/Caudex-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dm Sans';
+  font-weight: 400;
+  src: url('~/assets/fonts/dm/DMSans-Regular.woff2') format('woff2'),
+  url('~/assets/fonts/dm/DMSans-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dm Sans';
+  font-weight: 400;
+  font-style: italic;
+  src: url('~/assets/fonts/dm/DMSans-Italic.woff2') format('woff2'),
+  url('~/assets/fonts/dm/DMSans-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dm Sans';
+  font-weight: 700;
+  src: url('~/assets/fonts/dm/DMSans-Bold.woff2') format('woff2'),
+  url('~/assets/fonts/dm/DMSans-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dm Sans';
+  font-weight: 700;
+  font-style: italic;
+  src: url('~/assets/fonts/dm/DMSans-BoldItalic.woff2') format('woff2'),
+  url('~/assets/fonts/dm/DMSans-BoldItalic.woff') format('woff');
+}
