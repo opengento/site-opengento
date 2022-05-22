@@ -1,5 +1,8 @@
 <template>
-  <nav class="main-navigation">
+  <nav
+    class="main-navigation fixed top-0 left-0"
+    :class="{'hidden' : !menuOpened}"
+  >
     <ul class="text-white font-dm">
       <li>
         <NuxtLink to="/events">
@@ -28,6 +31,8 @@
 </template>
 
 <script>
+import { mapState } from 'vuex'
+
 export default {
   name: 'NavigationMenu',
   props: {
@@ -37,6 +42,10 @@ export default {
         return []
       }
     }
-  }
+  },
+  computed:
+    mapState({
+      menuOpened: state => state.menuOpened
+    })
 }
 </script>

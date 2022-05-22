@@ -23,6 +23,9 @@ const mutations = {
   GET_INDEX (state, payload) {
     state.index.data = payload
     state.index.status = 'success'
+  },
+  TOGGLE_MENU (state, payload) {
+    state.menuOpened = !state.menuOpened
   }
 }
 
@@ -43,6 +46,9 @@ const actions = {
       .fetch()
 
     commit('GET_INDEX', storeIndex)
+  },
+  toggleMenu ({ commit }, params, callback) {
+    commit('TOGGLE_MENU')
   }
 }
 
