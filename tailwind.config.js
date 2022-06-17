@@ -11,7 +11,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'dark-gray': '#111111'
+        'lighter-gray': '#FAFAFA',
+        'light-gray': '#CFC3B7',
+        'medium-gray': '#988F86',
+        'dark-gray': '#676058',
+        'darker-gray': '#111111',
+        'orange': '#F46F25'
       }
     },
     fontFamily: {

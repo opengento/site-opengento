@@ -1,6 +1,6 @@
 <template>
   <button
-    class="menu relative h-8 w-8 p-0 m-0 border-0 appearance-none text-white"
+    class="menu relative h-8 w-8 p-0 m-0 border-0 appearance-none text-dark-gray"
     :class="{active : menuOpened}"
     @click="toggleMenu"
   >

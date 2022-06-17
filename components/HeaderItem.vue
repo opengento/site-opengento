@@ -1,12 +1,17 @@
 <template>
-  <div class="relative flex items-center justify-between p-12">
+  <header class="relative flex items-center justify-between p-6 md:p-12">
     <NuxtLink class="flex justify-start items-center" to="/">
       <Logo />
-      <span class="ml-6 text-3xl font-dm font-medium text-white tracking-wide">{{ name }}</span>
+      <div class="text-right">
+        <span class="ml-4 md:ml-6 text-2xl md:text-3xl font-dm font-medium text-dark-gray tracking-wide">{{ name }}</span>
+        <span class="block ml-4 md:ml-6 font-dm font-medium text-xs tracking-wide text-medium-gray" v-html="tagline" />
+      </div>
     </NuxtLink>
-    <BurgerMenu />
-    <Navigation :members="members" />
-  </div>
+    <div class="nav-container flex flex-col-reverse items-end md:items-center md:flex-row relative p-0">
+      <Navigation :members="members" />
+      <BurgerMenu />
+    </div>
+  </header>
 </template>
 
 <script>
@@ -20,15 +25,8 @@ export default {
   components: { Logo, Navigation, BurgerMenu },
   data () {
     return {
-      name: 'Opengento'
-    }
-  },
-  head: {
-    bodyAttrs: {
-      class: 'bg-dark-gray'
-    },
-    htmlAttrs: {
-      class: 'dark'
+      name: 'Opengento',
+      tagline: 'we <span class="text-[10px] mr-1">🧡</span> e-commerce'
     }
   },
   computed: {
