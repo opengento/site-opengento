@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    {{ partial "meta.html" . }}
+    <title>{{ .Title }}</title>
+    {{ partial "css.html" . }}
+</head>
+<body>
+{{ partial "navbar.html" . }}
+
+<div class="hero-body">
+    <div class="container has-text-centered" style="padding-top:60px;">
+        <div class="columns is-vcentered">
+            <div class="column is-8 is-offset-2 has-text-left">
+                <h1 class="big-title">{{ .Title }}</h1>
+                <div id="main" class="events-list">
+                    {{ .Content }}
+
+                    {{ range .Pages}}
+                    <h4>{{.Title}}</h4>
+                    <div class="">
+                        <span class="">{{.STARS}}</span>
+                        <span class="">{{.WATCHERS}}</span>
+                        <span class="">{{.FORKS}}</span>
+                        <span class="">{{.ISSUES}}</span>
+                        <span class="">{{.LANGUAGE}}</span>
+                    </div>
+                    <div class="event-content">{{.Content | plainify | htmlEscape | safeHTML | truncate 180}}</div>
+                    <a href="{{ .URL }}" target="_blank" ref="noopener noreferrer" class="button cta is-large rounded secondary-btn raised">Voir sur github</a>
+                    <hr />
+                    {{- end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
+{{ partial "sidebar.html" . }}
+
+<!-- Back-to-top button -->
+<div id="backtotop"><a href="#"></a></div>
+
+{{ partial "javascript.html" . }}
+</body>
+</html>

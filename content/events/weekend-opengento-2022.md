@@ -32,7 +32,7 @@ Le Week-end n’est ouvert qu’aux adhérents Opengento, l’adhésion coûte 5
 
 ###### Vendredi 18 mars 2022
 
-**14h-19h** Accueil des premiers arrivants directement à Croix de Pastel à [1000m de la gare SNCF de Lavaur](ttps://www.google.fr/maps/dir/croix+de+pastel/Gare+de+Lavaur,+81500+Lavaur/@43.7007481,1.8140766,17z/data=!4m14!4m13!1m5!1m1!1s0x12ae874cf6a42f1b:0x8fa4a92fff29c284!2m2!1d1.8188237!2d43.6979161!1m5!1m1!1s0x12ae80b2c8d28d05:0x56bd9aba7a7d0c08!2m2!1d1.8131458!2d43.70348!3e2)
+**14h-19h** Accueil des premiers arrivants directement à Croix de Pastel à [1000m de la gare SNCF de Lavaur](https://www.google.fr/maps/dir/croix+de+pastel/Gare+de+Lavaur,+81500+Lavaur/@43.7007481,1.8140766,17z/data=!4m14!4m13!1m5!1m1!1s0x12ae874cf6a42f1b:0x8fa4a92fff29c284!2m2!1d1.8188237!2d43.6979161!1m5!1m1!1s0x12ae80b2c8d28d05:0x56bd9aba7a7d0c08!2m2!1d1.8131458!2d43.70348!3e2)
 
 **21-00h** Brainstorming, proposition des sujets et formation des équipes
 
@@ -62,3 +62,14 @@ Le Week-end n’est ouvert qu’aux adhérents Opengento, l’adhésion coûte 5
 **13h-15h** Repas
 
 **15h-** Temps libre – départs
+
+------
+
+## Nos sponsors
+
+Grâce à ces entreprises, les places sont individuellement abordables et l’événement peut avoir lieu. Merci pour leur contribution !
+
+- [Adexos](https://www.adexos.fr/)
+- [Blackbird](https://black.bird.eu/fr/)
+- [MonsieurBiz](https://monsieurbiz.com)
+- [PH2M](https://www.ph2m.com/)
