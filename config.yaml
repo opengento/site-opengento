@@ -42,6 +42,8 @@ params:
       links:
       - name: Organisez un événement
         url: "/events/organisez-votre-evenement/"
+      - name: Weekend OpenGento 2024
+        url: "/events/weekend-opengento-2024/"
       - name: Weekend OpenGento 2022
         url: "/events/weekend-opengento-2022/"
       - name: Weekend OpenGento 2019
@@ -83,6 +85,13 @@ params:
     tagline: Événements OpenGento
     subTagline: Prochains événements organisés par OpenGento
     panels:
+    - title: Week-end Toulouse 2024
+      image: icons/sun.svg
+      text: Vendredi 08 mars au dimanche 10 mars 2024
+      button:
+        text: En savoir plus
+        url: /events/weekend-opengento-2022/
+      delay: 1
     - title: Week-end Toulouse 2022
       image: icons/sun.svg
       text: Vendredi 18 mars au dimanche 20 mars 2022
@@ -126,6 +135,8 @@ params:
         url: "/mentions-legales/"
     - title: Événements
       links:
+      - name: Weekend OpenGento 2024
+        url: "/events/weekend-opengento-2024/"
       - name: Weekend OpenGento 2022
         url: "/events/weekend-opengento-2022/"
       - name: Weekend OpenGento 2019

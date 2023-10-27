@@ -6,6 +6,35 @@ draft: false
 weight: 450
 ---
 
+### Retours en images
+![groupe-drone-1.jpg](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/groupe-drone-1.jpg)
+![groupe-drone-2.jpg](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/groupe-drone-2.jpg)
+![groupe-drone-3.jpg](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/groupe-drone-3.jpg)
+![hackathon-canape.jpg](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/hackathon-canape.jpg)
+![hackathon-rugby.jpg](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/hackathon-rugby.jpg)
+![IMG_7605.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7605.JPEG)
+![IMG_7609.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7609.JPEG)
+![IMG_7610.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7610.JPEG)
+![IMG_7612.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7612.JPEG)
+![IMG_7613.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7613.JPEG)
+![IMG_7620.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7620.JPEG)
+![IMG_7623.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7623.JPEG)
+![IMG_7625.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7625.JPEG)
+![IMG_7626.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7626.JPEG)
+![IMG_7627.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7627.JPEG)
+![IMG_7629.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7629.JPEG)
+![IMG_7631.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7631.JPEG)
+![IMG_7634.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7634.JPEG)
+![IMG_7636.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7636.JPEG)
+![IMG_7637.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7637.JPEG)
+![IMG_7639.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7639.JPEG)
+![IMG_7640.JPEG](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/IMG_7640.JPEG)
+![miam-miam.jpg](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/miam-miam.jpg)
+![presentation.jpg](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/presentation.jpg)
+![sujets.jpg](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/sujets.jpg)
+
+Crédits photos : [Monsieurbiz](https://monsieurbiz.com/blog/weekend-opengento-2022), [Łukasz Bajsarowicz](https://twitter.com/LBajsarowicz) & [Frédéric Martinez](https://twitter.com/FredMartinez)
+
 ### Week-end Opengento Toulouse
 
 Le Week-end Opengento 2022 arrive à grand pas !
