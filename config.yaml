@@ -90,7 +90,7 @@ params:
       text: Vendredi 08 mars au dimanche 10 mars 2024
       button:
         text: En savoir plus
-        url: /events/weekend-opengento-2022/
+        url: /events/weekend-opengento-2024/
       delay: 1
     - title: Week-end Toulouse 2022
       image: icons/sun.svg
