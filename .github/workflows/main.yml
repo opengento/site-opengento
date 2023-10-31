@@ -16,7 +16,7 @@ jobs:
 
       - name: Build
         run: |
-         npm ci
+         cd themes/site-opengento-theme && npm install && gulp build && cd -
          hugo --config config.toml --minify
 
       - name: Pushes to another repository
