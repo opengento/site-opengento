@@ -17,7 +17,7 @@ jobs:
 
       - name: Build
         run: |
-         hugo --config config.toml --minify
+         hugo --minify
 
       - name: Pushes to another repository
         uses: cpina/github-action-push-to-another-repository@main
