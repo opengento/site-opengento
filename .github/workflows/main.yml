@@ -7,7 +7,7 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v4
         with:
-          ref: "master"
+          ref: "feat/cd"
 
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
