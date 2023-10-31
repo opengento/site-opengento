@@ -1,0 +1,31 @@
+name: CD
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v2
+        with:
+          ref: "master"
+
+      - name: Setup hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.74.2"
+
+      - name: Build
+        run: |
+         npm ci
+         hugo --config config.toml --minify
+
+      - name: Pushes to another repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+        with:
+          source-directory: 'public'
+          destination-github-username: 'opengento'
+          destination-repository-name: 'opengento.github.io'
+          user-email: contact@opengento.fr
+          target-branch: feat/ci
