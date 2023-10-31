@@ -17,7 +17,6 @@ jobs:
 
       - name: Build
         run: |
-#         cd themes/site-opengento-theme && yarn ||true && gulp build && cd -
          hugo --config config.toml --minify
 
       - name: Pushes to another repository
