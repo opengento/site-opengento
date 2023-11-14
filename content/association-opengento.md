@@ -77,7 +77,7 @@ https://www.adexos.fr
 
 ------
 
-![Monsieur Biz](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz-150x75.jpg "Monsieur Biz")
+![Monsieur Biz](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz.png "Monsieur Biz")
 https://monsieurbiz.com/
 
 ------
