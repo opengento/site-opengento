@@ -71,4 +71,13 @@ https://www.helloasso.com/associations/opengento/evenements/we-opengento-toulous
 ## Nos sponsors
 
 Grâce à ces entreprises, les places sont individuellement abordables et l’événement peut avoir lieu. Merci pour leur contribution !
-Sponsors à venir en fonction des participations ⌛
+
+![Hyvä](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/hyva-small.png "Hyvä")
+https://www.hyva.io/
+
+![LUMAO](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/lumao-small.png "LUMAO")
+https://lumao.eu
+
+![PH2M](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ph2m-logo.png "PH2M")
+https://www.ph2m.com/
+
