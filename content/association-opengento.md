@@ -33,7 +33,7 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 
 ------
 
-## Adhésion 2023
+## Adhésion 2024
 
 ###### Personne physique (développeuse / développeur)
 
@@ -42,7 +42,7 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 - Accès au compte Slack de l’association pour échanger
 - Adhésion requise pour participer à un événement
 
-[Adhésion 2023 (paiement)](https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-2016)
+[Adhésion personnelle 2024 (paiement)](https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-2016)
 
 ###### Personne morale (entreprise)
 
@@ -54,21 +54,15 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 - Offres spéciales des partenaires de l’association
 - Réservé aux prestataires de développement Magento ou éditeurs basés sur Magento
 
+[Adhésion entreprise 2024 (paiement)](https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento-2023)
+
+
 #### Membres donateurs
 
 Ils nous aident à faire vivre l'association, nous les remercions chaleureusement !
 
 Prenez le temps de découvrir leur site :
 
-------
-
-![Blackbird](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo.png "Blackbird")
-https://black.bird.eu/
-
-------
-
-![ati4group](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ATI4-150.png "Ati4Group")
-https://ati4group.com/
 
 ------
 
@@ -76,6 +70,20 @@ https://ati4group.com/
 https://www.adexos.fr
 
 ------
+![ati4group](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ATI4-150.png "Ati4Group")
+https://ati4group.com/
+
+------
+
+![Blackbird](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo.png "Blackbird")
+https://black.bird.eu/
+
+------
+![LUMAO](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/lumao-small.png "LUMAO")
+https://lumao.eu
+
+------
+
 
 ![Monsieur Biz](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz.png "Monsieur Biz")
 https://monsieurbiz.com/
@@ -85,14 +93,6 @@ https://monsieurbiz.com/
 ![PH2M](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ph2m-logo.png "PH2M")
 https://www.ph2m.com/
 
-------
-
-![Occitech](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/logo-occitech-150x39.jpg "Occitech")
-https://www.occitech.fr/
-
-------
-![LUMAO](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/lumao-small.png "LUMAO")
-https://lumao.eu
 
 -------
 

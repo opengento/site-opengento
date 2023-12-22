@@ -18,8 +18,8 @@
 
                     {{ range .Pages}}
                     <h4>{{.Title}}</h4>
-                    <div class="event-content">{{.Content | plainify | htmlEscape | safeHTML | truncate 180}}</div>
-                    <a href="{{ .Permalink }}" class="button cta is-large rounded secondary-btn raised">Découvrir</a>
+                    <div class="event-content">{{.Content | truncate 180}}</div>
+                    <a href="{{ .Permalink }}" class="button cta is-large rounded secondary-btn raised">Voir plus</a>
                     <hr />
                     {{- end }}
                 </div>

@@ -3,7 +3,7 @@ title: "Weekend Opengento 2024"
 date: 2023-10-27T15:00:00+02:00
 layout: single
 draft: false
-weight: 450
+weight: 100
 ---
 
 ### Week-end Opengento Toulouse

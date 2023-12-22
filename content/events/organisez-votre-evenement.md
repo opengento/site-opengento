@@ -19,6 +19,4 @@ L’objet de l’association est essentiellement l’organisation d’événemen
 
 ## Proposer un événement Magento
 
-Bientôt, vous pourrez ici nous soumettre votre projet et vos besoins...
-
-En attendant, [contactez-nous](mailto:opengento@gmail.com).
+[Contactez-nous !](mailto:opengento@gmail.com)

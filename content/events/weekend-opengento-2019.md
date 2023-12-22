@@ -3,7 +3,7 @@ title: "Weekend Opengento 2019"
 date: 2019-11-16T10:00:31+02:00
 layout: single
 draft: false
-weight: 450
+weight: 100
 ---
 
 ### Week-end Opengento Béthune

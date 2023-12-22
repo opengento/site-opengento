@@ -3,8 +3,16 @@ title: "Weekend Opengento 2022"
 date: 2022-01-15T10:00:31+02:00
 layout: single
 draft: false
-weight: 450
+weight: 100
 ---
+
+### Week-end Opengento Toulouse
+
+Le Week-end Opengento 2022 arrive à grand pas !
+
+Après 2 ans de pause à cause du Covid, nous serons cette année à Croix de Pastel à Lavaur à côté de Toulouse.
+<https://www.gite-croix-de-pastel.fr/>
+
 
 ### Retours en images
 ![groupe-drone-1.jpg](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/groupe-drone-1.jpg)
@@ -34,13 +42,6 @@ weight: 450
 ![sujets.jpg](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/photos/weekend-2022/sujets.jpg)
 
 Crédits photos : [Monsieurbiz](https://monsieurbiz.com/blog/weekend-opengento-2022), [Łukasz Bajsarowicz](https://twitter.com/LBajsarowicz) & [Frédéric Martinez](https://twitter.com/FredMartinez)
-
-### Week-end Opengento Toulouse
-
-Le Week-end Opengento 2022 arrive à grand pas !
-
-Après 2 ans de pause à cause du Covid, nous serons cette année à Croix de Pastel à Lavaur à côté de Toulouse.
-<https://www.gite-croix-de-pastel.fr/>
 
 #### Infos sanitaires :
 

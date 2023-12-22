@@ -15,12 +15,11 @@ params:
     - partners/ATI4-150.png
     - partners/adexos-150x65.png
     - partners/MonsieurBiz.png
-    - partners/logo-occitech-150x39.jpg
     - partners/ph2m-logo.png
     - partners/lumao-small.png
   navbar:
     name: OpenGento
-    buttonText: Adhésion 2023
+    buttonText: Adhésion 2024
     buttonUrl: https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-2016
     logo:
       src: logos/opengento-150x150.png
