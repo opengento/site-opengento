@@ -70,29 +70,34 @@ Prenez le temps de découvrir leur site :
 https://www.adexos.fr
 
 ------
-![ati4group](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ATI4-150.png "Ati4Group")
-https://ati4group.com/
-
-------
 
 ![Blackbird](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo.png "Blackbird")
 https://black.bird.eu/
 
 ------
+
 ![LUMAO](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/lumao-small.png "LUMAO")
 https://lumao.eu
 
 ------
 
+![Mollie](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/mollie.png "MOLLIE")
+https://mollie.com
+
+------
 
 ![Monsieur Biz](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz.png "Monsieur Biz")
 https://monsieurbiz.com/
 
 ------
 
+![NOLA Consulting](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/nola-consulting-logo.jpeg "NOLA Consulting")
+https://nolaconsulting.fr/
+
+------
+
 ![PH2M](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ph2m-logo.png "PH2M")
 https://www.ph2m.com/
-
 
 -------
 

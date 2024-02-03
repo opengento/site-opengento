@@ -87,5 +87,5 @@ https://monsieurbiz.com/
 ![ATI4](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ATI4-150.png "ATI4")
 https://ati4group.com/
 
-![NOLA Consulting](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/nola-consulting-logo.png "NOLA Consulting")
+![NOLA Consulting](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/nola-consulting-logo.jpeg "NOLA Consulting")
 https://nolaconsulting.fr/
