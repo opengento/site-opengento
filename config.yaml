@@ -11,12 +11,13 @@ params:
     buttonUrl: /association-opengento/
     image: illustrations/worker.svg
     bottomIcons:
-    - partners/blackbird-logo.png
-    - partners/ATI4-150.png
     - partners/adexos-150x65.png
-    - partners/MonsieurBiz.png
-    - partners/ph2m-logo.png
+    - partners/blackbird-logo.png
     - partners/lumao-small.png
+    - partners/mollie.png
+    - partners/MonsieurBiz.png
+    - partners/nola-consulting-logo.jpeg
+    - partners/ph2m-logo.png
   navbar:
     name: OpenGento
     buttonText: Adhésion 2024
