@@ -81,3 +81,11 @@ https://lumao.eu
 ![PH2M](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ph2m-logo.png "PH2M")
 https://www.ph2m.com/
 
+![Monsieur Biz](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz.png "Monsieur Biz")
+https://monsieurbiz.com/
+
+![ATI4](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ATI4-150.png "ATI4")
+https://ati4group.com/
+
+![NOLA Consulting](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/nola-consulting-logo.png "NOLA Consulting")
+https://nolaconsulting.fr/
