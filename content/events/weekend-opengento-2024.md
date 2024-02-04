@@ -89,3 +89,6 @@ https://ati4group.com/
 
 ![NOLA Consulting](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/nola-consulting-logo.jpeg "NOLA Consulting")
 https://nolaconsulting.fr/
+
+![Blackbird](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo.png "Blackbird")
+https://black.bird.eu/
