@@ -16,6 +16,9 @@ Nous serons en mars 2024 à nouveau à Croix de Pastel à Lavaur à côté de To
 ([Voir les photos](https://opengento.fr/events/weekend-opengento-2022/) de la précédente édition)
 
 
+### Retours en images
+[Voir les photos](https://photos.google.com/share/AF1QipM9KXXz63Ff4dMv7QXDKje09vVGf-a4b4lxTETYBFzRtOyVoTqaYByaBvK0ytedaQ?key=M3BvbnB5cHJNT2M5eUtTWmh6aFUtNHVYUTdGZ1Fn)].
+
 ------
 
 ## Mais qu’est-ce que le Week-end Opengento ?

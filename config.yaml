@@ -28,7 +28,7 @@ params:
     links:
     - text: Événements
       url: /events/
-    - text: L’association OpenGento
+    - text: L’association
       url: /association-opengento/
   sidebar:
     columns:
@@ -36,6 +36,10 @@ params:
       links:
       - name: L'association
         url: "/association-opengento/"
+      - name: Adhésion individuelle
+        url: https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-opengento
+      - name: Adhésion entreprise
+        url: https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento
       - name: Mentions légales
         url: "/mentions-legales/"
     - title: Événements
@@ -60,6 +64,10 @@ params:
       links:
       - name: Présentation
         url: "/adherents"
+      - name: Adhésion individuelle
+        url: https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-opengento
+      - name: Adhésion entreprise
+        url: https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento
     - title: Open Source
       links:
       - name: RGPD pour Magento 2
