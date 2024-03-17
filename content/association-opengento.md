@@ -33,16 +33,16 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 
 ------
 
-## Adhésion 2024
+## Adhésion
 
 ###### Personne physique (développeuse / développeur)
 
-**5€/an**
+**5€**
 
 - Accès au compte Slack de l’association pour échanger
 - Adhésion requise pour participer à un événement
 
-[Adhésion personnelle 2024 (paiement)](https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-2016)
+[Adhésion personnelle (paiement)](https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-opengento)
 
 ###### Personne morale (entreprise)
 
@@ -54,7 +54,7 @@ Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hulli
 - Offres spéciales des partenaires de l’association
 - Réservé aux prestataires de développement Magento ou éditeurs basés sur Magento
 
-[Adhésion entreprise 2024 (paiement)](https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento-2023)
+[Adhésion entreprise (paiement)](https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento)
 
 
 #### Membres donateurs

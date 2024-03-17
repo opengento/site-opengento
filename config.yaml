@@ -20,8 +20,8 @@ params:
     - partners/ph2m-logo.png
   navbar:
     name: OpenGento
-    buttonText: Adhésion 2024
-    buttonUrl: https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-2016
+    buttonText: Adhésion
+    buttonUrl: https://www.helloasso.com/associations/opengento/adhesions/adhesion-individuelle-opengento
     logo:
       src: logos/opengento-150x150.png
       alt: OpenGento logo

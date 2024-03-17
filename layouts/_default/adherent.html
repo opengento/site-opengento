@@ -15,17 +15,9 @@
                 <h1 class="big-title">{{ .Title }}</h1>
                 <div id="main" class="events-list">
                     {{ .Content }}
-
-                    <a
-                            class="button cta is-large rounded secondary-btn raised"
-                            target="_blank"
-                       href="https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento-2023">
-                        Adhésion entreprise 2024
-                    </a>
-
+                    <a class="button cta is-large rounded secondary-btn raised" target="_blank" href="https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento">Adhésion entreprise</a>
                     <br />
-                    <h3>Liste des agences partenaires pour l'année 2024, triées par ordre alphabétique</h3>
-
+                    <h3>Liste des agences partenaires pour l'année courante, triées par ordre alphabétique</h3>
                     {{ range .Pages}}
                     <h4>{{.Title}}</h4>
                     <div class="event-content">{{.Content | plainify | htmlEscape | safeHTML}}</div>
