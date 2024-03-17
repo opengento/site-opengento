@@ -82,7 +82,7 @@ params:
     - icon: twitter
       url: "https://twitter.com/opengento"
     - icon: linkedin
-      url: "https://linkeding.com/company/opengento"
+      url: "https://linkedin.com/company/opengento"
   features:
     tagline: Événements OpenGento
     subTagline: Prochains événements organisés par OpenGento
@@ -157,4 +157,4 @@ params:
     - icon: twitter
       url: "https://twitter.com/opengento"
     - icon: linkedin
-      url: "https://linkeding.com/company/opengento"
+      url: "https://linkedin.com/company/opengento"
