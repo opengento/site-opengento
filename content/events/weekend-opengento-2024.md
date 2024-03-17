@@ -17,7 +17,11 @@ Nous serons en mars 2024 à nouveau à Croix de Pastel à Lavaur à côté de To
 
 
 ### Retours en images
-[Voir les photos](https://photos.google.com/share/AF1QipM9KXXz63Ff4dMv7QXDKje09vVGf-a4b4lxTETYBFzRtOyVoTqaYByaBvK0ytedaQ?key=M3BvbnB5cHJNT2M5eUtTWmh6aFUtNHVYUTdGZ1Fn)].
+[Voir les photos](https://photos.google.com/share/AF1QipM9KXXz63Ff4dMv7QXDKje09vVGf-a4b4lxTETYBFzRtOyVoTqaYByaBvK0ytedaQ?key=M3BvbnB5cHJNT2M5eUtTWmh6aFUtNHVYUTdGZ1Fn).
+
+### Les projets
+- [Les talks(https://github.com/opengento/talks/tree/main/weekend-2024-lavaur)]  
+- [Les projets(https://github.com/opengento/weekend?tab=readme-ov-file#2024)]
 
 ------
 
