@@ -1,0 +1,19 @@
+name: 🧹 Cleanup old CI runs
+
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: '10 8 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api repos/${{ github.repository }}/actions/runs \
+          --paginate -q '.workflow_runs[] | select(.status != "in_progress" and .status != "queued") | "\(.id)"' | \
+          xargs -n1 -I % gh api repos/${{ github.repository }}/actions/runs/% -X DELETE
