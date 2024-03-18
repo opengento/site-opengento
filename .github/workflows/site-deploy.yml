@@ -1,0 +1,41 @@
+name: 🏗️ Deploy site
+
+on:
+  push:
+    branches: [ master ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: 🏗️ Deploy site
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇ Checkout
+        uses: actions/checkout@v4
+
+      - name: 👷 Build the project
+        run: |
+          docker run --rm -i -v "$(pwd):/src" klakegg/hugo
+
+      - name: 🪢 Get build repository
+        run: |
+          git config --global url.https://github.com/.insteadOf git://github.com/
+          git clone --depth 1 https://github.com/opengento/opengento.github.io.git
+
+      - name: 📝 Copy release
+        run: |
+          cp -R public/* opengento.github.io
+
+      - name: 🤖 Commit changes
+        run: |
+          cd opengento.github.io
+          git remote set-url origin https://x-access-token:${{ github.token }}@github.com/opengento/opengento.github.io.git
+          git config --global user.email "actions@github.com"
+          git config --global user.name "🤖 Github Commit Hook"
+          git add -A .
+          git commit -a -m "rebuilding site `date`"
+          git push origin master
