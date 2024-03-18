@@ -66,42 +66,30 @@ Prenez le temps de découvrir leur site :
 
 ------
 
-![Adexos](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/adexos-150x65.png "Adexos")
-https://www.adexos.fr
+[<img alt="Adexos" src="https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/adexos-150x65.png" title="Adexos" width="250"/>](https://www.adexos.fr)
 
 ------
 
-![Blackbird](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo.png "Blackbird")
-https://black.bird.eu/
+[<img alt="Blackbird" src="https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo.png" title="Blackbird" width="250"/>](https://black.bird.eu/)
 
 ------
 
-![LUMAO](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/lumao-small.png "LUMAO")
-https://lumao.eu
+[<img alt="LUMAO" src="https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/lumao-small.png" title="LUMAO" width="250"/>](https://lumao.eu)
 
 ------
 
-![Mollie](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/mollie.png "MOLLIE")
-https://mollie.com
+[<img alt="Mollie" src="https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/mollie.png" title="MOLLIE" width="250"/>](https://mollie.com)
 
 ------
 
-![Monsieur Biz](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz.png "Monsieur Biz")
-https://monsieurbiz.com/
+[<img alt="Monsieur Biz" src="https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/MonsieurBiz.png" title="Monsieur Biz" width="250"/>](https://monsieurbiz.com/)
 
 ------
 
-![NOLA Consulting](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/nola-consulting-logo.jpeg "NOLA Consulting")
-https://nolaconsulting.fr/
+[<img alt="PH2M" src="https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/nola-consulting-logo.jpeg" title="NOLA Consulting" width="250"/>](https://nolaconsulting.fr/)
 
 ------
 
-![PH2M](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ph2m-logo.png "PH2M")
-https://www.ph2m.com/
+[<img alt="PH2M" src="https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ph2m-logo.png" title="PH2M" width="250"/>](https://www.ph2m.com/)
 
 -------
-
-
-**Comment devenir un membre donateur OpenGento ?**
-
-Veuillez nous contacter à l'adresse <opengento@gmail.com> si vous souhaitez adhérer en tant qu’entreprise.
