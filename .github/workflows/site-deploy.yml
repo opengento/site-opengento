@@ -18,8 +18,8 @@ jobs:
 
       - name: 🪢 Get build repository
         run: |
-        git config --global url.https://github.com/.insteadOf git://github.com/
-        git clone --depth 1 https://github.com/opengento/opengento.github.io.git
+          git config --global url.https://github.com/.insteadOf git://github.com/
+          git clone --depth 1 https://github.com/opengento/opengento.github.io.git
 
       - name: 📝 Copy release
         run: |
