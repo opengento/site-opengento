@@ -18,7 +18,7 @@ jobs:
 
       - name: 🪢 Get build repository
         run: |
-          git config --global url.https://github.com/.insteadOf git://github.com/
+          hub config --global hub.protocol https
           git clone --depth 1 https://github.com/opengento/opengento.github.io.git
 
       - name: 📝 Copy release
@@ -28,8 +28,9 @@ jobs:
       - name: 🤖 Commit changes
         run: |
           cd opengento.github.io
-          git config user.email "actions@github.com"
-          git config user.name "🤖 Github Commit Hook"
+          hub remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/opengento/opengento.github.io.git
+          hub config --global user.email "actions@github.com"
+          hub config --global user.name "🤖 Github Commit Hook"
           git add -A .
           git commit -a -m "rebuilding site `date`"
           git push origin master
