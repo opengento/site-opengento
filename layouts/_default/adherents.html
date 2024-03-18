@@ -13,11 +13,17 @@
         <div class="columns is-vcentered">
             <div class="column is-8 is-offset-2 has-text-left">
                 <h1 class="big-title">{{ .Title }}</h1>
-                <div id="main">{{.Content | safeHTML}}
+                <div id="main" class="events-list">
+                    {{ .Content }}
                     <a class="button cta is-large rounded secondary-btn raised" target="_blank" href="https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento">Adhésion entreprise</a>
                     <br />
-                    <a href="{{< ref "/adherents" >}}" class="button cta is-large rounded secondary-btn raised">Liste des agences partenaires pour l'année courante</a>
+                    <h3>Liste des agences partenaires pour l'année courante, triées par ordre alphabétique</h3>
+                    {{ range .Pages}}
+                    <h4>{{ .Title }}</h4>
+                    <div class="event-content">{{.Content | safeHTML}}</div>
+                    <a href="{{ .Permalink }}" class="button cta is-large rounded secondary-btn raised">Découvrir</a>
                     <hr />
+                    {{- end }}
                 </div>
             </div>
         </div>
