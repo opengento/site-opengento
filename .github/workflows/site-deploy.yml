@@ -5,10 +5,6 @@ on:
     branches: [ master ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
-permissions:
-  contents: write
-
 jobs:
   build:
     name: 🏗️ Deploy site
@@ -33,7 +29,7 @@ jobs:
       - name: 🤖 Commit changes
         run: |
           cd opengento.github.io
-          git remote set-url origin https://x-access-token:${{ github.token }}@github.com/opengento/opengento.github.io.git
+          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_GITHUB_TOKEN }}@github.com/opengento/opengento.github.io.git
           git config --global user.email "actions@github.com"
           git config --global user.name "🤖 Github Commit Hook"
           git add -A .
