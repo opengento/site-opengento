@@ -24,12 +24,12 @@ Le rôle du bureau n’est pas d’organiser les événements, mais de gérer le
 ## Bureau
 
 - **Président :** Frédéric MARTINEZ ([@FredMartinez](https://twitter.com/FredMartinez))
-- **Secrétaire :** Mehdi CHAOUCH ([@MehdiChch](https://twitter.com/MehdiChch))
-- **Trésorier :** Tony SMAGGHE ([@TonySmag](https://twitter.com/TonySmag))
+- **Secrétaire :** Thomas KLEIN ([@lead_dave](https://twitter.com/lead_dave))
+- **Trésorier :** Christophe FERREBOEUF ([@cferrreboeuf](https://twitter.com/cferrreboeuf))
 
-#### Conseil d’administration
+#### Membres organisateurs du dernier [évènement](https://opengento.fr/events/)
 
-Nicolas Trossat – Etienne Zulauf – Gabriel Bouhatous – Jacques Bodin Hullin – Christophe le Bot – Frédéric Martinez – Sylvain Rayé
+[Aurélien LAVOREL](https://twitter.com/LavoWeb) – [Frédéric MARTINEZ](https://twitter.com/FredMartinez) – [Matias ORLANDO](https://twitter.com/mercuriel_) – [Mehdi CHAOUCH](https://twitter.com/mehdichch) – [Thomas KLEIN](https://twitter.com/lead_dave)
 
 ------
 
