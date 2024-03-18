@@ -20,7 +20,7 @@
                     <h3>Liste des agences partenaires pour l'année courante, triées par ordre alphabétique</h3>
                     {{ range .Pages}}
                     <h4>{{.Title}}</h4>
-                    <div class="event-content">{{.Content | plainify | safeHTML}}</div>
+                    <div class="event-content">{{.Content | safeHTML}}</div>
                     <a href="{{ .Permalink }}" class="button cta is-large rounded secondary-btn raised">Découvrir</a>
                     <hr />
                     {{- end }}
