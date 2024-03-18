@@ -1,14 +1,13 @@
 ---
 title: "Mollie"
+link: "https://www.mollie.com/"
 date: 2018-06-02T17:34:31+02:00
 layout: adherent
 draft: false
 weight: 300
 ---
 
-[Mollie](https://www.mollie.com/) 
-
-Disponible sur la marketplace Magento depuis plusieurs années, Mollie est un Partenaire Gold d'Adobe Commerce et une solution de paiement sécurisée, transparente et complète pour Magento 1 & 2.
+Disponible sur la marketplace Magento depuis plusieurs années, [Mollie](https://www.mollie.com/) est un Partenaire Gold d'Adobe Commerce et une solution de paiement sécurisée, transparente et complète pour Magento 1 & 2.
 Mollie est le premier fournisseur de services de paiement compatible Hyvä Checkout, assurant le succès et la sécurité des transactions.
 Grâce à Mollie, les e-commerçants utilisant Hyvä Checkout ont la possibilité de proposer plus de 25 méthodes de paiement différentes. Cela permet d’offrir une expérience d’achat complète à travers toute l’Europe.
 
