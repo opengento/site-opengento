@@ -19,7 +19,7 @@ jobs:
       - name: 🪢 Get build repository
         uses: actions/checkout@v4
         with:
-          name: opengento/opengento
+          repository: opengento/opengento
 
       - name: 📝 Copy release
         run: |
