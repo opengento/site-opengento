@@ -26,6 +26,16 @@ OpenGento styles
 
 .events-list .event-content { margin-bottom: 10px;}
 
+blockquote {
+    border: 1px solid #F39200;
+    background-color: #F39200;
+    color: #fff;
+    font-style: italic;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin: 1rem;
+}
+
 /* debug */
 .hero-body #main sup,
 .hero-body #main sub { vertical-align: baseline; font-size: inherit;}

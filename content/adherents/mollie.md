@@ -10,10 +10,9 @@ Disponible sur la marketplace Magento depuis plusieurs années, [Mollie](https:/
 Mollie est le premier fournisseur de services de paiement compatible Hyvä Checkout, assurant le succès et la sécurité des transactions.
 Grâce à Mollie, les e-commerçants utilisant Hyvä Checkout ont la possibilité de proposer plus de 25 méthodes de paiement différentes. Cela permet d’offrir une expérience d’achat complète à travers toute l’Europe.
 
->
-> "Nous avons vu des améliorations massives sur notre taux de conversion après avoir intégré Hyvä Checkout avec Mollie"  
-> James Kendall, Directeur des Opérations KES Lighting & Home
->
+> "Nous avons vu des améliorations massives sur notre taux de conversion après avoir intégré Hyvä Checkout avec Mollie"
+> 
+> - James Kendall, Directeur des Opérations KES Lighting & Home
 
 - **Un seul dashboard** pour simplifier vos paiements multi-boutiques, vos remboursements et votre gestion financière  
 - **+25 méthodes de paiement intégrées** comme: Cartes, Apple Pay, Paypal, Bancontact, Ideal, Klarna, ...  
