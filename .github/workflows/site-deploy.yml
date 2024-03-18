@@ -17,9 +17,9 @@ jobs:
           docker run --rm -i -v "$(pwd):/src" klakegg/hugo
 
       - name: 🪢 Get build repository
-        uses: actions/checkout@v4
-        with:
-          repository: opengento/opengento
+        run: |
+          git config --global url.https://github.com/.insteadOf git://github.com/
+          git clone --depth 1 https://github.com/opengento/opengento.github.io.git
 
       - name: 📝 Copy release
         run: |
