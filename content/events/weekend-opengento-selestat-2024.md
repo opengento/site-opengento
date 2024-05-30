@@ -6,8 +6,6 @@ draft: false
 weight: 100
 ---
 
-### Week-end Opengento Sélestat
-
 Quoi ? Une deuxième édition en 2024 ? Oui !
 
 ------
@@ -18,22 +16,22 @@ Mais qu’est-ce que le Week-end Opengento ?
 La possibilité de se réunir dans une ambiance conviviale et détendue pour parler dev, infra, méthodes de travail mais pas que ! C’est surtout le plaisir de se retrouver et de se rencontrer, (en chair et en os), et pas que sur Slack ou X, mais surtout d’apprendre et de partager !  
 
 Le Week-end est ouvert aux adhérents Opengento, l’adhésion coûte 5€ à vie.  
-Le prix de l’événement à titre individuel comprend tout sauf le déplacement, le tarif est de 200 € / personne.
+Le prix de l’événement à titre individuel comprend tout sauf le déplacement, le tarif est de 200 € / personne.  
 
 Pour ce second épisode de 2024, nous vous donnons rendez-vous en Alsace, dans le village de Sélestat !  
 L’événement aura lieu le 8, 9 et 10 novembre 2024.  
 
 Pour ceux qui n'ont jamais participé à cet événement, voici un petit résumé :  
 
-- WE du vendredi dans la journée / Arrivées à partir de 15h jusqu'au soir
-- Hackathon avec des sujets divers & variés à voter le vendredi soir et libre à chacun de le suivre ou de faire ce qu'il a envie du WE
-- Traiteur, boisson & gîte de qualité !
+- WE du vendredi dans la journée / Arrivées à partir de 15h jusqu'au soir  
+- Hackathon avec des sujets divers & variés à voter le vendredi soir et libre à chacun de le suivre ou de faire ce qu'il a envie du WE  
+- Traiteur, boisson & gîte de qualité !  
 
 La villa est accessible à pied depuis une gare SNCF.  
 
-Villa Avril
-1 All. de la Première Armée, 67600 Sélestat
-Quelques photos sur [le site de la Villa Avril](https://www.villa-avril.com/fr)
+Villa Avril  
+1 All. de la Première Armée, 67600 Sélestat  
+Quelques photos sur [le site de la Villa Avril](https://www.villa-avril.com/fr)  
 
 
 Prenez vos places sur la [billetterie en ligne](https://www.helloasso.com/associations/opengento/evenements/we-opengento-selestat-2024) !
