@@ -46,19 +46,21 @@ params:
       links:
       - name: Organisez un événement
         url: "/events/organisez-votre-evenement/"
-      - name: Weekend OpenGento 2024
+      - name: Weekend OpenGento Sélestat 2024
+        url: "/events/weekend-opengento-selestat-2024/"
+      - name: Weekend OpenGento Toulouse 2024
         url: "/events/weekend-opengento-2024/"
-      - name: Weekend OpenGento 2022
+      - name: Weekend OpenGento Toulouse 2022
         url: "/events/weekend-opengento-2022/"
-      - name: Weekend OpenGento 2019
+      - name: Weekend OpenGento Béthune 2019
         url: "/events/weekend-opengento-2019/"
-      - name: Weekend OpenGento 2018
+      - name: Weekend OpenGento Allègre 2018
         url: "/events/weekend-opengento-2018/"
-      - name: Weekend OpenGento 2017
+      - name: Weekend OpenGento Toulouse 2017
         url: "/events/weekend-opengento-2017/"
-      - name: Weekend OpenGento 2016
+      - name: Weekend OpenGento Toulouse 2016
         url: "/events/weekend-opengento-2016/"
-      - name: Weekend OpenGento 2015
+      - name: Weekend OpenGento Toulouse 2015
         url: "/events/weekend-opengento-2015/"
     - title: Adhérents
       links:
