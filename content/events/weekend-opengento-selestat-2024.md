@@ -14,25 +14,27 @@ Quoi ? Une deuxième édition en 2024 ? Oui !
 
 ## Mais qu’est-ce que le Week-end Opengento ?
 
-Mais qu’est-ce que le Week-end Opengento ?
-La possibilité de se réunir dans une ambiance conviviale et détendue pour parler dev, infra, méthodes de travail mais pas que ! C’est surtout le plaisir de se retrouver et de se rencontrer, (en chair et en os), et pas que sur Slack ou X, mais surtout d’apprendre et de partager !
+Mais qu’est-ce que le Week-end Opengento ?  
+La possibilité de se réunir dans une ambiance conviviale et détendue pour parler dev, infra, méthodes de travail mais pas que ! C’est surtout le plaisir de se retrouver et de se rencontrer, (en chair et en os), et pas que sur Slack ou X, mais surtout d’apprendre et de partager !  
 
-Le Week-end est ouvert aux adhérents Opengento, l’adhésion coûte 5€ à vie.
+Le Week-end est ouvert aux adhérents Opengento, l’adhésion coûte 5€ à vie.  
 Le prix de l’événement à titre individuel comprend tout sauf le déplacement, le tarif est de 200 € / personne.
 
-Pour ce second épisode de 2024, nous vous donnons rendez-vous en Alsace, dans le village de Sélestat !
-L’événement aura lieu le 8, 9 et 10 novembre 2024.
+Pour ce second épisode de 2024, nous vous donnons rendez-vous en Alsace, dans le village de Sélestat !  
+L’événement aura lieu le 8, 9 et 10 novembre 2024.  
 
-Pour ceux qui n'ont jamais participé à cet événement, voici un petit résumé :
-WE du vendredi dans la journée / Arrivées à partir de 15h jusqu'au soir
-Hackathon avec des sujets divers & variés à voter le vendredi soir et libre à chacun de le suivre ou de faire ce qu'il a envie du WE
-Traiteur, boisson & gîte de qualité !
+Pour ceux qui n'ont jamais participé à cet événement, voici un petit résumé :  
 
-La villa est accessible à pied depuis une gare SNCF. 
+- WE du vendredi dans la journée / Arrivées à partir de 15h jusqu'au soir
+- Hackathon avec des sujets divers & variés à voter le vendredi soir et libre à chacun de le suivre ou de faire ce qu'il a envie du WE
+- Traiteur, boisson & gîte de qualité !
+
+La villa est accessible à pied depuis une gare SNCF.  
 
 Villa Avril
 1 All. de la Première Armée, 67600 Sélestat
 Quelques photos sur [le site de la Villa Avril](https://www.villa-avril.com/fr)
+
 
 Prenez vos places sur la [billetterie en ligne](https://www.helloasso.com/associations/opengento/evenements/we-opengento-selestat-2024) !
 
@@ -42,7 +44,7 @@ Prenez vos places sur la [billetterie en ligne](https://www.helloasso.com/associ
 
 ###### Vendredi 08 novembre 2024
 
-**14h-19h** Accueil des premiers arrivants directement à Croix de Pastel à [1000m de la gare SNCF de Lavaur](https://www.google.fr/maps/dir/croix+de+pastel/Gare+de+Lavaur,+81500+Lavaur/@43.7007481,1.8140766,17z/data=!4m14!4m13!1m5!1m1!1s0x12ae874cf6a42f1b:0x8fa4a92fff29c284!2m2!1d1.8188237!2d43.6979161!1m5!1m1!1s0x12ae80b2c8d28d05:0x56bd9aba7a7d0c08!2m2!1d1.8131458!2d43.70348!3e2)
+**14h-19h** Accueil des premiers arrivants directement à la Villa Avril à quelques pas de la [gare SNCF de Sélestat](https://www.google.fr/maps/dir/Gare+S%C3%A9lestat,+Place+de+la+Gare,+S%C3%A9lestat/VILLA+AVRIL+%26+SPA+SELESTAT+-+G%C3%AEte+15+personnes+-+G%C3%AEte+groupe+avec+Jacuzzi,+1+All.+de+la+Premi%C3%A8re+Arm%C3%A9e,+67600+S%C3%A9lestat/@48.2598359,7.4441057,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x479144c71895c5ed:0xa9940da4d539ec39!2m2!1d7.4431059!2d48.260052!1m5!1m1!1s0x479145f78bd2041b:0x706db100cca9206c!2m2!1d7.4476258!2d48.2596368!3e2?entry=ttu)
 
 **21-00h** Brainstorming, proposition des sujets et formation des équipes
 
