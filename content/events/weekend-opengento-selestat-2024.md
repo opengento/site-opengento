@@ -1,5 +1,6 @@
 ---
 title: "Weekend Opengento Sélestat 2024"
+summary: "Seconde édition de l'événement mais en Alsace !"
 date: 2024-05-30T12:00:00+02:00
 layout: single
 draft: false
@@ -12,7 +13,6 @@ Quoi ? Une deuxième édition en 2024 ? Oui !
 
 ## Mais qu’est-ce que le Week-end Opengento ?
 
-Mais qu’est-ce que le Week-end Opengento ?  
 La possibilité de se réunir dans une ambiance conviviale et détendue pour parler dev, infra, méthodes de travail mais pas que ! C’est surtout le plaisir de se retrouver et de se rencontrer, (en chair et en os), et pas que sur Slack ou X, mais surtout d’apprendre et de partager !  
 
 Le Week-end est ouvert aux adhérents Opengento, l’adhésion coûte 5€ à vie.  
