@@ -1,5 +1,6 @@
 ---
 title: "Weekend Opengento 2016"
+summary: "L’événement soleil de l’année ! Dans une belle villa avec piscine et boulodrome, 20 développeurs Magento se retrouvent le temps d’un week-end pour échanger et co-construire des outils et extensions."
 date: 2018-06-02T17:34:31+02:00
 layout: single
 draft: false
