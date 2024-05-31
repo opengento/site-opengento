@@ -90,43 +90,15 @@ params:
       text: Vendredi 08 novembre au dimanche 10 novembre 2024
       button:
         text: En savoir plus
-        url: /events/weekend-opengento-selestat-2024/
+        url: "/events/weekend-opengento-selestat-2024/"
       delay: 1
-    - title: Week-end Toulouse 2024
-      image: icons/sun.svg
-      text: Vendredi 08 mars au dimanche 10 mars 2024
+    - title: Week-end 2025
+      image: icons/add.svg
+      text: Soyez le prochain à organiser l'évènement dans votre région !
       button:
         text: En savoir plus
-        url: /events/weekend-opengento-2024/
-      delay: 1
-    - title: Week-end Toulouse 2022
-      image: icons/sun.svg
-      text: Vendredi 18 mars au dimanche 20 mars 2022
-      button:
-        text: En savoir plus
-        url: /events/weekend-opengento-2022/
-      delay: 1
-    - title: Week-end Béthune 2019
-      image: icons/event.svg
-      text: Vendredi 15 novembre au Dimanche 16 novembre 2019
-      button:
-        text: En savoir plus
-        url: /events/weekend-opengento-2019/
+        url: "/events/organisez-votre-evenement/"
       delay: 2
-    - title: Week-end Allègre 2018
-      image: icons/cloud.svg
-      text: Vendredi 1er juin 2018 au Dimanche 3 juin 2018
-      button:
-        text: En savoir plus
-        url: /events/weekend-opengento-2018/
-      delay: 3
-    - title: Week-end Toulouse 2017
-      image: icons/sun.svg
-      text: Vendredi 23 juin 2017 au dimanche 25 juin 2017
-      button:
-        text: En savoir plus
-        url: /events/weekend-opengento-2017/
-      delay: 4
   contact:
     tagline: Drop us a line or two!
   footer:
