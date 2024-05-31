@@ -1,5 +1,6 @@
 ---
 title: "Weekend Opengento 2019"
+summary: "Nous étions cette année au parc d'Olhain (base de loisirs, parcours aventure dans les arbres, camping) dans le Nord Pas-de-Calais."
 date: 2019-11-16T10:00:31+02:00
 layout: single
 draft: false
