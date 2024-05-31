@@ -1,5 +1,6 @@
 ---
 title: "Weekend Opengento 2024"
+summary: "Nous étions en mars 2024 de à nouveau à la Croix de Pastel, à Lavaur du côté de Toulouse."
 date: 2023-10-27T15:00:00+02:00
 layout: single
 draft: false
