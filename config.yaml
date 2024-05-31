@@ -72,20 +72,8 @@ params:
         url: https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento
     - title: Open Source
       links:
-      - name: RGPD pour Magento 2
-        url: "/magento2-gdpr"
-      - name: Activer/Désactiver le prix ou la vente pour des groupes clients
-        url: "https://github.com/opengento/magento2-saleable"
-      - name: Gestion de documents pour Magento 2
-        url: "https://github.com/opengento?q=magento2-document#org-repositories"
-      - name: Boutiques par pays pour Magento 2
-        url: "https://github.com/opengento?q=magento2-country-store#org-repositories"
-      - name: Migration EE vers CE pour Magento 2
-        url: "https://github.com/opengento/magento2-downgrade-ee-ce"
-      - name: Gelf Logger pour Magento 2
-        url: "https://github.com/opengento/logger"
-      - name: Gatsbylius
-        url: "https://github.com/opengento/gatsbylius"
+      - name: Découvrez nos modules !
+        url: "/projects"
     followUs:
     - icon: github
       url: "https://github.com/opengento"
@@ -97,6 +85,13 @@ params:
     tagline: Événements OpenGento
     subTagline: Prochains événements organisés par OpenGento
     panels:
+    - title: Week-end Sélestat 2024
+      image: icons/calendar.svg
+      text: Vendredi 08 novembre au dimanche 10 novembre 2024
+      button:
+        text: En savoir plus
+        url: /events/weekend-opengento-selestat-2024/
+      delay: 1
     - title: Week-end Toulouse 2024
       image: icons/sun.svg
       text: Vendredi 08 mars au dimanche 10 mars 2024
@@ -147,6 +142,8 @@ params:
         url: "/mentions-legales/"
     - title: Événements
       links:
+      - name: Weekend OpenGento Sélestat 2024
+        url: "/events/weekend-opengento-selestat-2024/"
       - name: Weekend OpenGento 2024
         url: "/events/weekend-opengento-2024/"
       - name: Weekend OpenGento 2022

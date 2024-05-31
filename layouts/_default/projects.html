@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    {{ partial "meta.html" . }}
+    <title>{{ .Title }}</title>
+    {{ partial "css.html" . }}
+</head>
+<body>
+{{ partial "navbar.html" . }}
+
+<div class="hero-body">
+    <div class="container has-text-centered" style="padding-top:60px;">
+        <div class="columns is-vcentered">
+            <div class="column is-8 is-offset-2 has-text-left">
+                <h1 class="big-title">{{ .Title }}</h1>
+                <div id="main" class="project-list">
+                    {{ .Content }}
+                    <a class="button cta is-large rounded secondary-btn raised" target="_blank" href="https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento">Adhésion entreprise</a>
+                    <br />
+                    <h3>Liste des projets réalisés lors des weekend Opengento (mais pas que) :</h3>
+                    {{ range .Pages}}
+                    <h4>{{ .Title }}</h4>
+                    <div class="project-content">
+                        {{.Content | safeHTML}}
+
+                        {{ range .Pages}}
+                        <h4>{{.Title}}</h4>
+                        <div class="event-content">{{.Content}}</div>
+                        <hr />
+                        {{- end }}
+                    </div>
+                    {{- end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
+{{ partial "sidebar.html" . }}
+
+<!-- Back-to-top button -->
+<div id="backtotop"><a href="#"></a></div>
+
+{{ partial "javascript.html" . }}
+</body>
+</html>
