@@ -1,5 +1,6 @@
 ---
 title: "Weekend Opengento 2022"
+summary: "Après 2 ans de pause à cause du Covid, nous étions cette à la Croix de Pastel, à Lavaur du côté de Toulouse."
 date: 2022-01-15T10:00:31+02:00
 layout: single
 draft: false
