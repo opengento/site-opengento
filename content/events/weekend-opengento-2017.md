@@ -1,5 +1,6 @@
 ---
 title: "Weekend Opengento 2017"
+summary: "Comme chaque année maintenant, nous avons organisé un week-end dans une villa privatisée en proche banlieue Toulousaine."
 date: 2018-06-02T17:34:31+02:00
 layout: single
 draft: false
