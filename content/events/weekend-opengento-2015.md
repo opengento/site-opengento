@@ -1,5 +1,6 @@
 ---
 title: "Weekend Opengento 2015"
+summary: "Imaginez une villa dans la campagne Toulousaine, oui avec Internet, mais aussi piscine, barbecue, verdure, soleil... Magento Paradise à la Française en somme !"
 date: 2018-06-02T17:34:31+02:00
 layout: single
 draft: false
