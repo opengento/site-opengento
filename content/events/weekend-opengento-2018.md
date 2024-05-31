@@ -1,5 +1,6 @@
 ---
 title: "Weekend Opengento 2018"
+summary: "Cette année, nous nous éloignons de la *ville rose* pour nous rapprocher du pays de la lentille verte et de la liqueur de verveine ! Oui, nous serons cette année au cœur la Haute Loire, tout près des volcans d’Auvergne et au calme, loin du tumulte des grandes villes."
 date: 2018-06-02T17:34:31+02:00
 layout: single
 draft: false
