@@ -1,6 +1,6 @@
 ---
 title: "Weekend Opengento Sélestat 2024"
-summary: "Seconde édition de l'événement mais en Alsace !"
+summary: "Quoi ? Deux évènements en 2024 ? Oui, il s'agit bien d'une seconde édition du weekend Opengento, mais cette fois ça sera en Alsace !"
 date: 2024-05-30T12:00:00+02:00
 layout: single
 draft: false
