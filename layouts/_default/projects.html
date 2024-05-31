@@ -13,19 +13,19 @@
         <div class="columns is-vcentered">
             <div class="column is-8 is-offset-2 has-text-left">
                 <h1 class="big-title">{{ .Title }}</h1>
-                <div id="main" class="project-list">
+                <div id="main" class="events-list">
                     {{ .Content }}
-                    <a class="button cta is-large rounded secondary-btn raised" target="_blank" href="https://www.helloasso.com/associations/opengento/adhesions/adhesion-entreprise-opengento">Adhésion entreprise</a>
+                    <a class="button cta is-large rounded secondary-btn raised" target="_blank" href="https://github.com/opengento">Découvrez nos projets sur github !</a>
                     <br />
                     <h3>Liste des projets réalisés lors des weekend Opengento (mais pas que) :</h3>
                     {{ range .Pages}}
                     <h4>{{ .Title }}</h4>
-                    <div class="project-content">
+                    <div class="event-content">
                         {{.Content | safeHTML}}
 
                         {{ range .Pages}}
                         <h4>{{.Title}}</h4>
-                        <div class="event-content">{{.Content}}</div>
+                        {{.Content}}
                         <hr />
                         {{- end }}
                     </div>

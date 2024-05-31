@@ -11,4 +11,4 @@ The combination of these two improve your website organization and improve the c
 You can also show specific information regarding the current country of you customer so you can display precise information 
 like specific contact information (phone number, email, opening hours) related to your store country place of operations.
 
-<a href="https://github.com/opengento?q=magento2-country-store#org-repositories" target="_blank" ref="noopener noreferrer" class="button cta is-large rounded secondary-btn raised">Voir sur github</a>
+[Voir sur github.](https://github.com/opengento?q=magento2-country-store#org-repositories)
