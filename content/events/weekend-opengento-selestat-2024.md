@@ -83,4 +83,14 @@ Prenez vos places sur la [billetterie en ligne](https://www.helloasso.com/associ
 
 Grâce à ces entreprises, les places sont individuellement abordables et l’événement peut avoir lieu. Merci pour leur contribution !
 
-[Devenez sponsors de l'événement !](https://www.helloasso.com/associations/opengento/evenements/we-opengento-selestat-2024)
+![ATI4](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ATI4-150.png "ATI4")
+https://ati4group.com/
+
+![Blackbird](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/blackbird-logo.png "Blackbird")
+https://black.bird.eu/
+
+![Dn'D](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/dnd_logo.png "Dn'D")
+https://dnd.fr
+
+![PH2M](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/ph2m-logo.png "PH2M")
+https://www.ph2m.com/
