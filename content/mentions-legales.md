@@ -9,9 +9,9 @@ draft: false
 
 Ce site web est édité par l’association loi 1901 « OpenGento » (RNA W833003136).
 
-Directeur de la publication : Raphaël Petrini (Président de l’association).
+Directeur de la publication: Frédéric MARTINEZ (Président de l’association).
 
-Siège social : 10 rue Ambroise Croizat – 83170 Tourves – France.
+Siège social : 17 rue Idrac - 31000 Toulouse - France.
    
 ## Hébergement
 
