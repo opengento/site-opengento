@@ -74,6 +74,10 @@ Prenez le temps de découvrir leur site :
 
 ------
 
+[![HYVA](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/hyva-small.png "HYVA")](https://hyva.io)
+
+------
+
 [![LUMAO](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/lumao-small.png "LUMAO")](https://lumao.eu)
 
 ------
@@ -86,7 +90,7 @@ Prenez le temps de découvrir leur site :
 
 ------
 
-[![PH2M](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/nola-consulting-logo.jpeg "NOLA Consulting")](https://nolaconsulting.fr/)
+[![Nola Consulting](https://raw.githubusercontent.com/opengento/site-opengento/master/static/img/partners/nola-consulting-logo.jpeg "NOLA Consulting")](https://nolaconsulting.fr/)
 
 ------
 
