@@ -89,6 +89,9 @@ params:
     - title: Meet Magento France 2024
       image: icons/calendar.svg
       text: Mardi 25 Mars 2025 à Paris
+      button:
+        text: En savoir plus
+        url: "https://fr.meet-magento.com/"
       delay: 1
     - title: Week-end 2025
       image: icons/add.svg
