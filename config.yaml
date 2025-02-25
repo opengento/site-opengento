@@ -86,7 +86,7 @@ params:
     tagline: Événements OpenGento
     subTagline: Prochains événements organisés par OpenGento
     panels:
-    - title: Meet Magento France 2024
+    - title: Meet Magento France 2025
       image: icons/calendar.svg
       text: Mardi 25 Mars 2025 à Paris
       button:
